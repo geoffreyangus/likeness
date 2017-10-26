@@ -1,0 +1,241 @@
+(face detected)
+Adele (@adele)
+Predicted: 673265
+Actual: 928233
+Error: 0.2746810337490695
+---------------
+(face detected)
+Ariana Grande (@arianagrande)
+Predicted: 1849652
+Actual: 1672830
+Error: 0.10570231284709146
+---------------
+(face detected)
+badgalriri (@badgalriri)
+Predicted: 1403092
+Actual: 1407093
+Error: 0.002843451001461879
+---------------
+(face not detected)
+Beyoncé (@beyonce)
+Predicted: 1186717
+Actual: 773093
+Error: 0.5350248935121648
+---------------
+(face detected)
+Cara Delevingne (@caradelevingne)
+Predicted: 707743
+Actual: 623487
+Error: 0.1351367390178143
+---------------
+(face detected)
+champagnepapi (@champagnepapi)
+Predicted: 540879
+Actual: 544766
+Error: 0.007135173634184219
+---------------
+(face detected)
+💔🌕 #P&A #QUESTIONS iTunes (@chrisbrownofficial)
+Predicted: 172129
+Actual: 44991
+Error: 2.8258540597008293
+---------------
+(face detected)
+Cristiano Ronaldo (@cristiano)
+Predicted: 3481932
+Actual: 2884345
+Error: 0.20718291327840463
+---------------
+(face detected)
+David Beckham (@davidbeckham)
+Predicted: 1018680
+Actual: 1045485
+Error: 0.02563881834746553
+---------------
+(face detected)
+Demi Lovato (@ddlovato)
+Predicted: 1061327
+Actual: 586112
+Error: 0.8107921352915484
+---------------
+(face detected)
+Emma Watson (@emmawatson)
+Predicted: 1529898
+Actual: 5376797
+Error: 0.7154629419708425
+---------------
+(face not detected)
+Gareth Bale (@garethbale11)
+Predicted: 583699
+Actual: 825129
+Error: 0.29259667276268314
+---------------
+(face detected)
+Gigi Hadid (@gigihadid)
+Predicted: 1352954
+Actual: 1089986
+Error: 0.24125814460002237
+---------------
+(face detected)
+IAmZlatan (@iamzlatanibrahimovic)
+Predicted: 972876
+Actual: 761847
+Error: 0.2769965623018795
+---------------
+(face detected)
+James Rodríguez (@jamesrodriguez10)
+Predicted: 1128132
+Actual: 760007
+Error: 0.48437053869240676
+---------------
+(face detected)
+Jennifer Lopez (@jlo)
+Predicted: 516922
+Actual: 327494
+Error: 0.5784167038174746
+---------------
+(face detected)
+Justin Bieber (@justinbieber)
+Predicted: 1781073
+Actual: 3428216
+Error: 0.4804665166955641
+---------------
+(face detected)
+Justin Timberlake (@justintimberlake)
+Predicted: 600938
+Actual: 1138116
+Error: 0.47198879551820727
+---------------
+(face detected)
+KATY PERRY (@katyperry)
+Predicted: 427069
+Actual: 451759
+Error: 0.054653034029205835
+---------------
+(face not detected)
+Kendall (@kendalljenner)
+Predicted: 1970955
+Actual: 2262749
+Error: 0.12895553152382347
+---------------
+(face detected)
+Kevin Hart (@kevinhart4real)
+Predicted: 288022
+Actual: 166363
+Error: 0.7312864038277742
+---------------
+(face detected)
+Khloé (@khloekardashian)
+Predicted: 948293
+Actual: 760385
+Error: 0.24712218152646356
+---------------
+(face detected)
+Kim Kardashian West (@kimkardashian)
+Predicted: 1481612
+Actual: 652826
+Error: 1.2695358334380065
+---------------
+(face detected)
+LeBron James (@kingjames)
+Predicted: 645098
+Actual: 658901
+Error: 0.02094851882149215
+---------------
+(face not detected)
+Kourtney Kardashian (@kourtneykardash)
+Predicted: 712217
+Actual: 709223
+Error: 0.004221521298660647
+---------------
+(face detected)
+Kylie (@kyliejenner)
+Predicted: 2626917
+Actual: 2871769
+Error: 0.08526173240257137
+---------------
+(face detected)
+Leo Messi (@leomessi)
+Predicted: 2857959
+Actual: 2945917
+Error: 0.02985759612371971
+---------------
+(face detected)
+MALUMA (@maluma)
+Predicted: 544130
+Actual: 831772
+Error: 0.3458183252141212
+---------------
+(face detected)
+Miley Cyrus (@mileycyrus)
+Predicted: 583782
+Actual: 782742
+Error: 0.25418337076584624
+---------------
+(face not detected)
+Nj 🇧🇷 👻 neymarjr (@neymarjr)
+Predicted: 1881570
+Actual: 2409668
+Error: 0.2191579918893391
+---------------
+(face detected)
+Barbie® (@nickiminaj)
+Predicted: 611698
+Actual: 562820
+Error: 0.08684481717067624
+---------------
+(face detected)
+Ronaldo de Assis Moreira (@ronaldinho)
+Predicted: 398811
+Actual: 687023
+Error: 0.4195085171821031
+---------------
+(face not detected)
+Selena Gomez (@selenagomez)
+Predicted: 2910212
+Actual: 1189441
+Error: 1.4467056373540175
+---------------
+(face detected)
+Shakira (@shakira)
+Predicted: 501457
+Actual: 220363
+Error: 1.2755952678081166
+---------------
+(face detected)
+Conor McGregor Official (@thenotoriousmma)
+Predicted: 1177469
+Actual: 1211130
+Error: 0.02779305276890177
+---------------
+(face not detected)
+therock (@therock)
+Predicted: 798486
+Actual: 199307
+Error: 3.006311870631739
+---------------
+(face detected)
+Vanessa Hudgens (@vanessahudgens)
+Predicted: 349366
+Actual: 318513
+Error: 0.09686574802284365
+---------------
+(face not detected)
+Vin Diesel (@vindiesel)
+Predicted: 743373
+Actual: 1152068
+Error: 0.35474902523114954
+---------------
+(face not detected)
+Zac Efron (@zacefron)
+Predicted: 1048257
+Actual: 1110027
+Error: 0.055647295065795695
+---------------
+(face detected)
+Zendaya (@zendaya)
+Predicted: 1477906
+Actual: 1487859
+Error: 0.0066894779680063765
+---------------
+Average Error: 0.4659815289200872
