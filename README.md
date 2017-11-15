@@ -3,7 +3,14 @@ An application that predicts post popularity from the features of a given Instag
 
 Notes:
 
+11/15
+- Now the dataset is cached (so it doesn't have to read in a bunch of different JSON files every time).
+- There is now a consistent train/test data split.
+- The algorithm now runs scikit linear regression model.
+
 11/14
+- Just installed `scikit-learn` (which depends upon `numpy` and `scipy`) and I don't understand virtualenv.
+- Pipenv just stopped working. Attempted to uninstall everything and reinstall everything. Nothing works.
 - Starting to look at the project again for the upcoming progress report.
 - Current framework: Linear Regression using squared loss
 - Color and other basic photo qualities are important.

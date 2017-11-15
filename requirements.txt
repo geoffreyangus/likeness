@@ -1,4 +1,2 @@
 instagram-scraper
-numpy
-scipy
-scikit-learn
+scikit-learn[alldeps]
