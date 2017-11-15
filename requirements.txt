@@ -1,0 +1,4 @@
+instagram-scraper
+numpy
+scipy
+scikit-learn
