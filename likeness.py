@@ -39,14 +39,14 @@ class BaseLineAlgorithm():
 		return True if len(faces) > 0 else False
 
 	# Returns tuple containing predicted value, actual value, and percent error.
-	def getResult(self, username, metadata):
+	def getResult(self, username, imageData):
 		# most recent image with full 'like' saturation
-		imagePath = metadata[-2]['imagePath']
+		imagePath = imageData[-2]['imagePath']
 		# predict the number of likes
 		yhat = int(self.predict(username, imagePath))
 
 		# actual number of likes
-		y = metadata[-2]['likes']
+		y = imageData[-2]['likes']
 		error = abs(float(yhat) - float(y)) / float(y)
 		return (yhat, y, error)
 

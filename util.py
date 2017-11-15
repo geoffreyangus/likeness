@@ -13,26 +13,41 @@ def getUsernames():
 def compareTimestamps(item):
 	return item['timestamp']
 
+# extracts image filename from raw URL
+def extractImagePathFromURL(url, newRelativePath):
+	index = url.rfind('/')
+	return newRelativePath + url[index:]
+
 # Gets all relevant metaData given a user's username.
 def getMetadata(username):
-	results = []
+	results = {}
+	images = []
 	with open('users/'+username+'/'+username+'.json') as json_data:
 	    data = json.load(json_data)
 	    for pic in data:
-	    	metadata = {}
+	    	if pic == data[0]:
+	    		user = {}
+	    		s = pic['user']['profile_picture']
+	    		relativePath = './users/'+username
+	    		user['profilePicPath'] = extractImagePathFromURL(s, relativePath)
+	    		user['name'] = pic['user']['full_name']
+	    		user['username'] = pic['user']['username']
+	    		results['user'] = user
+	    	imageData = {}
 	    	if validatePic(pic):
 	    		s = pic['images']['low_resolution']['url']
-    			index = s.rfind('/')
     			relativePath = './users/'+username
-    			metadata['imagePath'] = relativePath + s[index:]
-	    		metadata['name'] = pic['user']['full_name']
-    			metadata['timestamp'] = pic['created_time']
+    			imageData['imagePath'] = extractImagePathFromURL(s, relativePath)
+	    		imageData['name'] = pic['user']['full_name']
+    			imageData['timestamp'] = pic['created_time']
     			if not (pic['caption'] and pic['caption']['text']):
-    				metadata['caption'] = ''
+    				imageData['caption'] = ''
     			else:
-    				metadata['caption'] = pic['caption']['text']
-    			metadata['likes'] = pic['likes']['count']
-	    		results.append(metadata)
+    				imageData['caption'] = pic['caption']['text']
+    			imageData['likes'] = pic['likes']['count']
+	    		images.append(imageData)
+
+		results['images'] = images
 	return results
 
 # Verifies that the json object is well-formed
@@ -76,16 +91,26 @@ def getImagePaths(username):
 
 def printPredictorResults(predictor):
 	cumulativeError = 0
+	maxError = (0.0, '')
+	minError = (1.0, '')
 	usernames = sorted(getUsernames())
 	for username in usernames:
 		# sorted by most recent
-		metadata = sorted(getMetadata(username), key=compareTimestamps)
-		result = predictor.getResult(username, metadata)
-		print(metadata[0]['name'], '(@'+username+')')
+		metadata = getMetadata(username)
+		userData = metadata['user']
+		imageData = sorted(metadata['images'], key=compareTimestamps)
+		result = predictor.getResult(username, imageData)
+		print(imageData[0]['name'], '(@'+username+')')
 		print('Predicted:', result[0])
 		print('Actual:', result[1])
 		print('Error:', result[2])
 		print('---------------')
 		# sum errors
 		cumulativeError += result[2]
+		if result[2] > maxError[0]:
+			maxError = (result[2], username)
+		if result[2] < minError[0]:
+			minError = (result[2], username)
 	print('Average Error:', float(cumulativeError) / float(len(usernames)))
+	print('Max Error:', maxError[0], '(@'+maxError[1]+')')
+	print('Min Error:', minError[0], '(@'+minError[1]+')')

@@ -239,3 +239,5 @@ Actual: 1487859
 Error: 0.0066894779680063765
 ---------------
 Average Error: 0.4659815289200872
+Max Error: 3.006311870631739 (@therock)
+Min Error: 0.002843451001461879 (@badgalriri)
