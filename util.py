@@ -23,29 +23,29 @@ def getMetadata(username):
 	results = {}
 	images = []
 	with open('users/'+username+'/'+username+'.json') as json_data:
-	    data = json.load(json_data)
-	    for pic in data:
-	    	if pic == data[0]:
-	    		user = {}
-	    		s = pic['user']['profile_picture']
-	    		relativePath = './users/'+username
-	    		user['profilePicPath'] = extractImagePathFromURL(s, relativePath)
-	    		user['name'] = pic['user']['full_name']
-	    		user['username'] = pic['user']['username']
-	    		results['user'] = user
-	    	imageData = {}
-	    	if validatePic(pic):
-	    		s = pic['images']['low_resolution']['url']
-    			relativePath = './users/'+username
-    			imageData['imagePath'] = extractImagePathFromURL(s, relativePath)
-	    		imageData['name'] = pic['user']['full_name']
-    			imageData['timestamp'] = pic['created_time']
-    			if not (pic['caption'] and pic['caption']['text']):
-    				imageData['caption'] = ''
-    			else:
-    				imageData['caption'] = pic['caption']['text']
-    			imageData['likes'] = pic['likes']['count']
-	    		images.append(imageData)
+		data = json.load(json_data)
+		for pic in data:
+			if pic == data[0]:
+				user = {}
+				s = pic['user']['profile_picture']
+				relativePath = './users/'+username
+				user['profilePicPath'] = extractImagePathFromURL(s, relativePath)
+				user['name'] = pic['user']['full_name']
+				user['username'] = pic['user']['username']
+				results['user'] = user
+			imageData = {}
+			if validatePic(pic):
+				s = pic['images']['low_resolution']['url']
+				relativePath = './users/'+username
+				imageData['imagePath'] = extractImagePathFromURL(s, relativePath)
+				imageData['name'] = pic['user']['full_name']
+				imageData['timestamp'] = pic['created_time']
+				if not (pic['caption'] and pic['caption']['text']):
+					imageData['caption'] = ''
+				else:
+					imageData['caption'] = pic['caption']['text']
+				imageData['likes'] = pic['likes']['count']
+				images.append(imageData)
 
 		results['images'] = images
 	return results
@@ -72,11 +72,11 @@ def getAverageLikes(username):
 	sum = 0
 	count = 0
 	with open('users/'+username+'/'+username+'.json') as json_data:
-	    d = json.load(json_data)
-	    for pic in d:
-	    	if pic and pic['likes'] and pic['likes']['count']:
-	    		sum += pic['likes']['count']
-	    		count += 1
+		d = json.load(json_data)
+		for pic in d:
+			if pic and pic['likes'] and pic['likes']['count']:
+				sum += pic['likes']['count']
+				count += 1
 	return float(sum) / float(count)
 
 # Gets image paths of user
