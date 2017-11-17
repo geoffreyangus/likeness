@@ -6,6 +6,7 @@ import numpy as np
 PROCESSED_DATA_PATH = './data_processed.json'
 TRAIN_PATH = './train.json'
 TEST_PATH = './test.json'
+from featureExtractor import FeatureExtractor
 
 # Gets the usernames from the ig_users.txt file
 def getUsernames():
@@ -149,7 +150,7 @@ def printBaselineResults(predictor):
 		print 'Predicted:', result[0]
 		print 'Actual:', result[1]
 		print 'Error:', result[2]
-		print '---------------'
+		print '---------------'\
 		# sum errors
 		cumulativeError += result[2]
 		if result[2] > maxError[0]:
