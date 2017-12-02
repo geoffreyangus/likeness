@@ -1,21 +1,76 @@
 import numpy as np
 import cv2
 import re
+import csv
 import datetime
 from skimage import color
+from PorterStemmer import PorterStemmer
 
 class FeatureExtractor():
 
 	def extract(self,jsonBlob):
 		imagePath = jsonBlob['imagePath']
 		self.img = cv2.imread(imagePath)
-		# print(imagePath)
 		self.gray = cv2.cvtColor(self.img, cv2.COLOR_BGR2GRAY)
 		self.caption = jsonBlob['caption']
 		self.timeStamp = jsonBlob['timestamp']
-		self.timeStampInfo()
 		self.features = []
+
+		self.stemmer = PorterStemmer()
+		reader = csv.reader(open('sentiment.txt', 'rb'))
+		rawSentiment = dict(reader)
+
+		# Convert the words to their stemd equivalents, which will make comparison
+		# of input strings easier later
+		self.sentiment = {}
+		for word in rawSentiment:
+			self.sentiment[self.stemmer.stem(word)] = rawSentiment[word]
 		return (np.array(self.getFeatures()),jsonBlob['likes'])
+
+    # Will run sentiment detection on the entire input passed in, so if we want
+    # to ignore movie names, make sure to pass in a string with these stripped
+	def getSentiment(self, input):
+		# separate punction out
+		input = input.replace(","," ,")
+		# stem all the words to make sure we're dealing with a consistent set of tokens
+		words = input.lower().split()
+		words = [self.stemmer.stem(w) for w in words]
+
+		# Rate this input positive vs. negative
+		posScore = 0
+		negScore = 0
+		#info for handling negation words eg. 'not', 'pierce', 'didn't' and handling contradicting words eg. 'but', 'geoff','however'
+		negation = False
+		contradiction = False
+		contradictions = {'but', 'however', 'although', 'though', 'yet', 'except', 'nevertheless', 'nonetheless', 'despite','tho'}
+		negationWords = {'not', 'never', 'neither', 'nor', 'isn\'t', 'didn\'t', 'wasn\'t', 'hasn\'t','isnt', 'didnt', 'wasnt', 'hasnt'}
+		punctuation = {'.', '?', '!'}
+
+		for w in words:
+			if w in contradictions: # reset logic after contradictions, since they infer that what came before doesn't matter to the sentiment
+				posScore,negScore = 0,0
+				contradiction = True
+			if w in negationWords:
+				negation = True
+			if w in punctuation:
+				negation = False
+			if w == ",":
+				if contradiction:
+					posScore,negScore = 0,0
+				contradiction = False
+			if w not in self.sentiment: continue
+			if negation: # things after a negation tend to have a higher overall weight
+				if self.sentiment[w] == "pos": negScore += 2
+				else: posScore += 2
+			else:
+				if self.sentiment[w] == "pos": posScore += 1
+				else: negScore += 1
+		possyVibesOnly = [0,0] 
+		if posScore > negScore: 
+			possyVibesOnly = [1,0]
+		else: 
+			possyVibesOnly = [0,1]
+		return possyVibesOnly
 
 	def dominantColors(self):
 		img = self.img
@@ -40,7 +95,7 @@ class FeatureExtractor():
 		return colors
 
 	def getFeatures(self):
-		self.features += self.gradients()
+		# self.features += self.gradients()
 		self.features += [self.numMentions()]
 		self.features += [self.numHashtags()]
 		self.features += [self.commentLength()]
@@ -48,6 +103,7 @@ class FeatureExtractor():
 		self.features += [self.numFaces()]
 		self.features += [self.brightness()]
 		self.features += self.dominantColors()
+		self.features += self.getSentiment(self.caption)
 
 		# print(len(self.features))
 		return self.features
@@ -77,7 +133,7 @@ class FeatureExtractor():
 		hour = [0]*24
 		day[date.weekday()] = 1
 		hour[date.hour] = 1
-		return day + hour + [float(self.timeStamp)]
+		return day + hour
 
 	def numFaces(self):
 		cascPath = "haarcascade_frontalface_default.xml"
