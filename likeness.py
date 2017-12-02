@@ -2,8 +2,10 @@ import numpy as np
 import cv2
 import util
 from sklearn import linear_model
+from featureExtractor import FeatureExtractor
 
 import warnings
+
 warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd") # lol
 
 class DummyFeatureExtractor():
@@ -26,13 +28,23 @@ class LikenessV1():
 	def train(self, data, featureExtractor):
 		X = []
 		Y = []
+		print("training on " + str(len(data)) + " examples")
+		count = 0
 		for example in data:
+			# print(example)
 			output = featureExtractor(example)
+			# print(output)
 			X.append(output[0])
 			Y.append(output[1])
 
+			if count%50 == 0:
+				print(str(count*1.0/len(data)) + "\% done!")
+			count+=1
+
 		X = np.asarray(X)
 		Y = np.asarray(Y)
+		print(X.shape)
+		print(Y.shape)
 
 		self.classifier = linear_model.LinearRegression(fit_intercept=True, copy_X=False)
 		self.classifier.fit(X, Y)
@@ -99,11 +111,14 @@ class BaseLineAlgorithm():
 data = util.getMetadata()
 train, test = util.getDataSplit(data)
 
-extractor = DummyFeatureExtractor()
+# extractor = DummyFeatureExtractor()
+
+extractor = FeatureExtractor()
 model = LikenessV1()
 model.train(train, extractor.extract)
 
 cumulativeError = 0.0
+print("testing on " + str(len(test)) + " examples")
 for example in test:
 	processedExample = extractor.extract(example)
 	x = processedExample[0]
@@ -115,4 +130,5 @@ for example in test:
 	print 'ACTUAL:', y
 	print '---------------'
 	cumulativeError += abs(y - yhat) / yhat
+
 print 'AVERAGE ERROR (LikenessV1):', cumulativeError / len(test)
