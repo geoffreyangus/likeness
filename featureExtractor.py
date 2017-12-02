@@ -2,12 +2,14 @@ import numpy as np
 import cv2
 import re
 import datetime
+from skimage import color
 
 class FeatureExtractor():
 
 	def extract(self,jsonBlob):
 		imagePath = jsonBlob['imagePath']
 		self.img = cv2.imread(imagePath)
+		# print(imagePath)
 		self.gray = cv2.cvtColor(self.img, cv2.COLOR_BGR2GRAY)
 		self.caption = jsonBlob['caption']
 		self.timeStamp = jsonBlob['timestamp']
@@ -20,15 +22,22 @@ class FeatureExtractor():
 		arr = np.float32(img)
 		pixels = arr.reshape((-1, 3))
 
-		n_colors = 3
-		criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 200, .1)
+		n_colors = 4
+		criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 200, .15)
 		flags = cv2.KMEANS_RANDOM_CENTERS
-		_, labels, centroids = cv2.kmeans(pixels, n_colors, None, criteria, 10, flags)
+		_, labels, centroids = cv2.kmeans(pixels, n_colors, None, criteria, 2, flags)
 
-		palette = np.uint8(centroids)
-		quantized = palette[labels.flatten()]
-		quantized = quantized.reshape(img.shape)
-		return centroids.flatten().tolist()
+		# print(centroids)
+		# print(centroids)
+		centroids = np.array([centroids]).astype(int)
+		hsvs = color.rgb2hsv(centroids/255.0)
+		colors = [0]*8
+		for hsv in hsvs[0]:
+			degree = hsv[0]*360
+			# print(degree)
+			# print(abs(degree//45))
+			colors[int(degree//45)]+=1
+		return colors
 
 	def getFeatures(self):
 		self.features += self.gradients()
@@ -39,14 +48,18 @@ class FeatureExtractor():
 		self.features += [self.numFaces()]
 		self.features += [self.brightness()]
 		self.features += self.dominantColors()
+
+		# print(len(self.features))
 		return self.features
 
 	def brightness(self):
 		return np.mean(self.gray)
+
 	# returns tuple of (dx mean, dx std, dy mean, dy std)
 	def gradients(self):
 		dx,dy = np.gradient(self.gray)
 		return [np.mean(dx),np.std(dx),np.mean(dy),np.std(dy)]
+
 	def numMentions(self):
 		result = re.findall("@([a-zA-Z0-9]{1,15})", self.caption)
 		return len(result)
@@ -60,7 +73,11 @@ class FeatureExtractor():
 
 	def timeStampInfo(self):
 		date = datetime.datetime.fromtimestamp(float(self.timeStamp))
-		return [date.day,date.hour,float(self.timeStamp)]
+		day = [0]*7
+		hour = [0]*24
+		day[date.weekday()] = 1
+		hour[date.hour] = 1
+		return day + hour + [float(self.timeStamp)]
 
 	def numFaces(self):
 		cascPath = "haarcascade_frontalface_default.xml"
