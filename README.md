@@ -3,6 +3,12 @@ An application that predicts post popularity from the features of a given Instag
 
 Notes:
 
+12/1
+- Command used to scrape Instagram images
+```
+instagram-scraper -f ig_users.txt --retain-username --media-types image --maximum 50 --media-metadata --include-location
+```
+
 11/15
 - Now the dataset is cached (so it doesn't have to read in a bunch of different JSON files every time).
 - There is now a consistent train/test data split.
