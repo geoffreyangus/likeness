@@ -1,0 +1,3355 @@
+[
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1354, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23969507_935221933293754_9118042095678914560_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 305357
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Here in Beijing, China at “The Great Wall Of China”, considered to be one of the greatest Wonders of The World! It’s always been on my list of places to see  throughout my travels in life however, timing is everything. Coming here with 23 people has been a great experience and it doesn’t hurt to get paid $3,000,000. to simply visit and vacation here in luxury for a few days. With money this long, everything is different. I move different, I dress different and I live different because my money is extremely different!  i want to thank my cousin @dejuanblake and his @affiliationmanagement company for putting this all together.\n\nPhoto credit: \n@lapistolpete \n@idriserba \nvideographer:\n\n@jamesdayap"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 28
+        }, 
+        "id": "1657449663038489625", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "137440806980119", 
+            "name": "Great Wall China", 
+            "slug": "great-wall-china"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BcAca_egAQZ", 
+        "tags": [], 
+        "taken_at_timestamp": 1511803418, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.137.1080.1080/23969507_935221933293754_9118042095678914560_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.137.1080.1080/23969507_935221933293754_9118042095678914560_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.137.1080.1080/23969507_935221933293754_9118042095678914560_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.137.1080.1080/23969507_935221933293754_9118042095678914560_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.137.1080.1080/23969507_935221933293754_9118042095678914560_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.137.1080.1080/23969507_935221933293754_9118042095678914560_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23969507_935221933293754_9118042095678914560_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/24125323_152233292173470_974764384268058624_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/24125322_392171297872311_5076789332581285888_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/24126255_300754513757351_2096703304766586880_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1296, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23824878_1987892488117370_3449252999505903616_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 150806
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "See you soon China! 🇨🇳 •BEIJING  Nov. 27, 2017 •CHENGDOU  Nov. 29, 2017 •HONG KONG  Dec. 01, 2017 •MACAO  Dec 03,  2017 •SHANGHAI  Dec. 04, 2017"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1729
+        }, 
+        "id": "1655494562317301140", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Bb5f4iCg3WU", 
+        "tags": [], 
+        "taken_at_timestamp": 1511570352, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.108.1080.1080/23824878_1987892488117370_3449252999505903616_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.108.1080.1080/23824878_1987892488117370_3449252999505903616_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.108.1080.1080/23824878_1987892488117370_3449252999505903616_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.108.1080.1080/23824878_1987892488117370_3449252999505903616_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.108.1080.1080/23824878_1987892488117370_3449252999505903616_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.108.1080.1080/23824878_1987892488117370_3449252999505903616_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23824878_1987892488117370_3449252999505903616_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/23734194_1614934198552179_4808506768827088896_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 625882
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "FOLLOW:\n@fannie_jean \n@agentearle \n@thee_mayweather \n@tmtbside7 \n@youngbabyface\n@p_hef \n@diggsfoe \n@moneysl \n@bruce_son_tmt \n@tmtpilot \n@themoneyteambbs"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 17927
+        }, 
+        "id": "1651909120003060393", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BbswperArKp", 
+        "tags": [], 
+        "taken_at_timestamp": 1511143368, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/23734194_1614934198552179_4808506768827088896_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/23734194_1614934198552179_4808506768827088896_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/23734194_1614934198552179_4808506768827088896_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/23734194_1614934198552179_4808506768827088896_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/23734194_1614934198552179_4808506768827088896_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/23734194_1614934198552179_4808506768827088896_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/1fb04455f2fc5ca51572c3fd5247fbe2/5A232D17/t50.2886-16/23837888_371128796664488_7697093934354268160_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/23594261_132412724131686_1857426544947888128_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 92623
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I want to wish my son, @kingkoraun a HAPPY BIRTHDAY! \nEveryone FOLLOW and WISH @kingkoraun A HAPPY 18th BIRTHDAY!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1333
+        }, 
+        "id": "1650136930924419361", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Bbmdsu-gNkh", 
+        "tags": [], 
+        "taken_at_timestamp": 1510931779, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/23594261_132412724131686_1857426544947888128_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/23594261_132412724131686_1857426544947888128_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/23594261_132412724131686_1857426544947888128_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/23594261_132412724131686_1857426544947888128_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/23594261_132412724131686_1857426544947888128_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/23594261_132412724131686_1857426544947888128_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/685166932a32b0055165b1f468a52e96/5A2312C3/t50.2886-16/23727836_1755431814760057_4900658440373796864_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/23498865_378762159225817_6229897539416489984_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 685252
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "RIP Grand Dad.  I will always love you."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 15622
+        }, 
+        "id": "1648369293982827450", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BbgLyOyggO6", 
+        "tags": [], 
+        "taken_at_timestamp": 1510720954, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/23498865_378762159225817_6229897539416489984_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/23498865_378762159225817_6229897539416489984_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/23498865_378762159225817_6229897539416489984_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/23498865_378762159225817_6229897539416489984_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/23498865_378762159225817_6229897539416489984_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/23498865_378762159225817_6229897539416489984_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/45eda6fd43d5e6fa8b9515a3f210c56e/5A22BC7F/t50.2886-16/23630915_1579539122135701_6947144862961500160_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1328, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23416418_1981450888806250_7204907488439697408_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 257471
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Distinguished gentleman."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1643385285461092691", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BbOejXJAylT", 
+        "tags": [], 
+        "taken_at_timestamp": 1510126814, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.124.1080.1080/23416418_1981450888806250_7204907488439697408_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.124.1080.1080/23416418_1981450888806250_7204907488439697408_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.124.1080.1080/23416418_1981450888806250_7204907488439697408_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.124.1080.1080/23416418_1981450888806250_7204907488439697408_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.124.1080.1080/23416418_1981450888806250_7204907488439697408_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.124.1080.1080/23416418_1981450888806250_7204907488439697408_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23416418_1981450888806250_7204907488439697408_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23347396_351092372020399_1629924150208364544_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1248, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23099142_143227196304226_3991093519379857408_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 312348
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Having one is too close to having none.  Damn, I  love my life!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 66
+        }, 
+        "id": "1639043707594580180", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Ba_DZFqg6DU", 
+        "tags": [], 
+        "taken_at_timestamp": 1509609257, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.84.1080.1080/23099142_143227196304226_3991093519379857408_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.84.1080.1080/23099142_143227196304226_3991093519379857408_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.84.1080.1080/23099142_143227196304226_3991093519379857408_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.84.1080.1080/23099142_143227196304226_3991093519379857408_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.84.1080.1080/23099142_143227196304226_3991093519379857408_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.84.1080.1080/23099142_143227196304226_3991093519379857408_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23099142_143227196304226_3991093519379857408_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23161093_499166513782653_365315375438495744_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23099033_274323446411857_3862607296387350528_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23098630_445127409215932_909101902044594176_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22860760_286741961730582_3117230849041367040_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 194186
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Last night, I was the Riddler."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 54
+        }, 
+        "id": "1637094013263702704", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Ba4IFTUgGqw", 
+        "tags": [], 
+        "taken_at_timestamp": 1509376835, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/22860760_286741961730582_3117230849041367040_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/22860760_286741961730582_3117230849041367040_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/22860760_286741961730582_3117230849041367040_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/22860760_286741961730582_3117230849041367040_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22860760_286741961730582_3117230849041367040_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22860760_286741961730582_3117230849041367040_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22860760_286741961730582_3117230849041367040_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/23099054_940975836050286_4669175916620939264_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22858163_1668217699890149_5227843804828008448_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22860450_360469827711616_2491826427549188096_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 304152
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Last night, I was Achilles from ‘Troy’ or Maximus from ‘The Gladiator’."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 6
+        }, 
+        "id": "1636825286538650236", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212901056", 
+            "name": "Las Vegas, Nevada", 
+            "slug": "las-vegas-nevada"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Ba3K-0Dg2J8", 
+        "tags": [], 
+        "taken_at_timestamp": 1509344801, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/22860450_360469827711616_2491826427549188096_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/22860450_360469827711616_2491826427549188096_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/22860450_360469827711616_2491826427549188096_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/22860450_360469827711616_2491826427549188096_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22860450_360469827711616_2491826427549188096_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22860450_360469827711616_2491826427549188096_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22860450_360469827711616_2491826427549188096_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22857475_128521314516615_2176968388033642496_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22802017_174503633131781_2974270758060032000_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 286017
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Friday night, my costume was Sylvester The Cat."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 365
+        }, 
+        "id": "1635940235378546859", 
+        "is_video": true, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212901056", 
+            "name": "Las Vegas, Nevada", 
+            "slug": "las-vegas-nevada"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Ba0Bvn7gdir", 
+        "tags": [], 
+        "taken_at_timestamp": 1509239294, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22802017_174503633131781_2974270758060032000_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22802017_174503633131781_2974270758060032000_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22802017_174503633131781_2974270758060032000_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22802017_174503633131781_2974270758060032000_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22802017_174503633131781_2974270758060032000_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22802017_174503633131781_2974270758060032000_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/25795518dab581d6e47ada7e6d4f7a04/5A22FB20/t50.2886-16/22830144_1797230767241024_6516290558623744000_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22857680_133549213897300_2048186662701236224_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 361625
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "On my way to @girlcollection to kick off Halloween Weekend here in Las Vegas. \nI got my 80’s/90s look on today.\n\nFOLLOW: \n@mr.love_song"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 8134
+        }, 
+        "id": "1634710546446176564", 
+        "is_video": true, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212901056", 
+            "name": "Las Vegas, Nevada", 
+            "slug": "las-vegas-nevada"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BavqJS3glE0", 
+        "tags": [], 
+        "taken_at_timestamp": 1509092704, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22857680_133549213897300_2048186662701236224_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22857680_133549213897300_2048186662701236224_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22857680_133549213897300_2048186662701236224_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22857680_133549213897300_2048186662701236224_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22857680_133549213897300_2048186662701236224_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22857680_133549213897300_2048186662701236224_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/f472a9a4867827dfd2ac6761c00cabd7/5A22B6C3/t50.2886-16/22856497_186270221918591_9038947365230215168_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1189, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22710689_2645889335550305_181779160748785664_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 184221
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Everyone FOLLOW & wish @1_oneshot  A HAPPY BIRTHDAY !"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 3
+        }, 
+        "id": "1632470720833413705", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Bans3itgGJJ", 
+        "tags": [], 
+        "taken_at_timestamp": 1508825696, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.42.825.825/22710689_2645889335550305_181779160748785664_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.42.825.825/22710689_2645889335550305_181779160748785664_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.42.825.825/22710689_2645889335550305_181779160748785664_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.42.825.825/22710689_2645889335550305_181779160748785664_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.42.825.825/22710689_2645889335550305_181779160748785664_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.42.825.825/22710689_2645889335550305_181779160748785664_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22710689_2645889335550305_181779160748785664_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22637649_357257568077908_3316528683174330368_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 349331
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I got that bag...literally & figuratively.\n\n#Hermes\n#HermesHac\n#HermesDiamondHac"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 18
+        }, 
+        "id": "1631724057445739928", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212999109", 
+            "name": "Los Angeles, California", 
+            "slug": "los-angeles-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BalDGKPgy2Y", 
+        "tags": [
+            "HermesDiamondHac", 
+            "HermesHac", 
+            "Hermes"
+        ], 
+        "taken_at_timestamp": 1508736687, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/22637649_357257568077908_3316528683174330368_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/22637649_357257568077908_3316528683174330368_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/22637649_357257568077908_3316528683174330368_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/22637649_357257568077908_3316528683174330368_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22637649_357257568077908_3316528683174330368_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22637649_357257568077908_3316528683174330368_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22637649_357257568077908_3316528683174330368_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1352, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22638952_229406734260779_9059940357919211520_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 224658
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "“ROCK-A-BYE BABY”\n\n#yellowdiamond \n#rocks\n#rock\n#diamonds\n#diamond\n#gold\n#yellowgold\n#whitegold\n#jewelry"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 6
+        }, 
+        "id": "1631712063212669833", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212999109", 
+            "name": "Los Angeles, California", 
+            "slug": "los-angeles-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BalAXnvgsuJ", 
+        "tags": [
+            "yellowgold", 
+            "whitegold", 
+            "diamond", 
+            "jewelry", 
+            "gold", 
+            "diamonds", 
+            "rocks", 
+            "yellowdiamond", 
+            "rock"
+        ], 
+        "taken_at_timestamp": 1508735257, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.136.1080.1080/22638952_229406734260779_9059940357919211520_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.136.1080.1080/22638952_229406734260779_9059940357919211520_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.136.1080.1080/22638952_229406734260779_9059940357919211520_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.136.1080.1080/22638952_229406734260779_9059940357919211520_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/22638952_229406734260779_9059940357919211520_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/22638952_229406734260779_9059940357919211520_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22638952_229406734260779_9059940357919211520_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22639392_150815395657760_5749559731450544128_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22709448_1752327261735004_5716714304061833216_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22801895_942212362599185_4760633813510389760_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22638871_158983561362694_4166945019669774336_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 732, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22638753_157708621491641_3785388465919623168_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 509595
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "With 3 of my 4 children at the home opener for The Clippers vs. The Lakers game.  They are all grown up now & are smiling BIG cause they know their Father sacrificed everything to give them a comfortable life & secure their future.\n\nFOLLOW:\n@kingkoraun \n@moneyyaya \n@zion_mayweather \n@jirahmayweather"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1631698234516792909", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "177643359427566", 
+            "name": "Staples Center", 
+            "slug": "staples-center"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Bak9OYxAWZN", 
+        "tags": [], 
+        "taken_at_timestamp": 1508733609, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c7.0.630.630/22638753_157708621491641_3785388465919623168_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c7.0.630.630/22638753_157708621491641_3785388465919623168_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c7.0.630.630/22638753_157708621491641_3785388465919623168_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c7.0.630.630/22638753_157708621491641_3785388465919623168_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/c7.0.630.630/22638753_157708621491641_3785388465919623168_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/c7.0.630.630/22638753_157708621491641_3785388465919623168_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22638753_157708621491641_3785388465919623168_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22708689_1417303225049396_7709315684701831168_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 349597
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "This charm bracelet that was made for me 10 years ago is one of my favorites out of all the priceless pieces I own! \nI brought it out today to honor the things and people I enjoy the most. Each charm tells a bit about me. The basketball and football pieces: two of my favorite sports that I bet and win on all the time. The musical note: this represents my love and appreciation for all genres of music. The double \"R\": out of all the 400 exotic cars that I've owned throughout my life, the Rolls Royce is one of my favorites. The jet: this is for my jets, “Air Mayweather” that has taken me to places around the world that most could only dream of. The chess piece: it’s a reminder that life is about strategy and you must not only know your next move, but your opponent as well. The kid charms: these charms represents each of my four children, the absolute loves of my life. And last but not least, a boxing glove: a tribute to where it all started from."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2405
+        }, 
+        "id": "1631611402391287765", 
+        "is_video": true, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212928653", 
+            "name": "Miami Beach, Florida", 
+            "slug": "miami-beach-florida"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "Bakpe0DAnfV", 
+        "tags": [], 
+        "taken_at_timestamp": 1508723257, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22708689_1417303225049396_7709315684701831168_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22708689_1417303225049396_7709315684701831168_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22708689_1417303225049396_7709315684701831168_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22708689_1417303225049396_7709315684701831168_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22708689_1417303225049396_7709315684701831168_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22708689_1417303225049396_7709315684701831168_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/2f110d4c2574424a44bc70c7a0442f4a/5A230C57/t50.2886-16/22769106_1393230380786306_8545307120130588672_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22580457_183468525553971_4638996311008346112_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 340696
+        }, 
+        "edge_media_to_caption": {
+            "edges": []
+        }, 
+        "edge_media_to_comment": {
+            "count": 25
+        }, 
+        "id": "1628913038872639434", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BabD8dMAXfK", 
+        "taken_at_timestamp": 1508401587, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22580457_183468525553971_4638996311008346112_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22580457_183468525553971_4638996311008346112_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22580457_183468525553971_4638996311008346112_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22580457_183468525553971_4638996311008346112_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22580457_183468525553971_4638996311008346112_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22580457_183468525553971_4638996311008346112_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/4a211af0a7261570c13c19d2dab7486f/5A22B90B/t50.2886-16/22662288_126395418022059_5904195424738082816_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22639512_289198178249606_3068556104934883328_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 568814
+        }, 
+        "edge_media_to_caption": {
+            "edges": []
+        }, 
+        "edge_media_to_comment": {
+            "count": 901
+        }, 
+        "id": "1628650181991970614", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BaaILYpAbc2", 
+        "taken_at_timestamp": 1508370252, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22639512_289198178249606_3068556104934883328_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22639512_289198178249606_3068556104934883328_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22639512_289198178249606_3068556104934883328_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22639512_289198178249606_3068556104934883328_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22639512_289198178249606_3068556104934883328_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22639512_289198178249606_3068556104934883328_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/498c5292b6f5efe8e31f3cd0b37d82f3/5A22B636/t50.2886-16/22661499_140503663362646_2594877042465964032_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1350, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22429726_843060035872969_1913678809660391424_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 730323
+        }, 
+        "edge_media_to_caption": {
+            "edges": []
+        }, 
+        "edge_media_to_comment": {
+            "count": 5609
+        }, 
+        "id": "1625432066336245065", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BaOsdo4gEVJ", 
+        "taken_at_timestamp": 1507986623, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/22429726_843060035872969_1913678809660391424_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.135.1080.1080/22429726_843060035872969_1913678809660391424_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.135.1080.1080/22429726_843060035872969_1913678809660391424_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.135.1080.1080/22429726_843060035872969_1913678809660391424_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22429726_843060035872969_1913678809660391424_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22429726_843060035872969_1913678809660391424_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22429726_843060035872969_1913678809660391424_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1349, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22280478_1577350288993403_6841734043256487936_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 560159
+        }, 
+        "edge_media_to_caption": {
+            "edges": []
+        }, 
+        "edge_media_to_comment": {
+            "count": 40
+        }, 
+        "id": "1622019295515035468", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212988663", 
+            "name": "New York, New York", 
+            "slug": "new-york-new-york"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BaCkfSYAMdM", 
+        "taken_at_timestamp": 1507579789, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.134.1080.1080/22280478_1577350288993403_6841734043256487936_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.134.1080.1080/22280478_1577350288993403_6841734043256487936_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.134.1080.1080/22280478_1577350288993403_6841734043256487936_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.134.1080.1080/22280478_1577350288993403_6841734043256487936_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/22280478_1577350288993403_6841734043256487936_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/22280478_1577350288993403_6841734043256487936_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22280478_1577350288993403_6841734043256487936_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1350, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22280891_312382255904306_6679980163230334976_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 529825
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Like fine wine."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 4
+        }, 
+        "id": "1621944759067170214", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BaCTio5gVWm", 
+        "tags": [], 
+        "taken_at_timestamp": 1507570904, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.117.936.936/22280891_312382255904306_6679980163230334976_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.117.936.936/22280891_312382255904306_6679980163230334976_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.117.936.936/22280891_312382255904306_6679980163230334976_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.117.936.936/22280891_312382255904306_6679980163230334976_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.936.936/22280891_312382255904306_6679980163230334976_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.936.936/22280891_312382255904306_6679980163230334976_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22280891_312382255904306_6679980163230334976_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1350, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22220688_823990201116883_7891226108241117184_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 441778
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Born ready."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 176
+        }, 
+        "id": "1619861258964643147", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212988663", 
+            "name": "New York, New York", 
+            "slug": "new-york-new-york"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZ65zuOAS1L", 
+        "tags": [], 
+        "taken_at_timestamp": 1507322531, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/22220688_823990201116883_7891226108241117184_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.135.1080.1080/22220688_823990201116883_7891226108241117184_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.135.1080.1080/22220688_823990201116883_7891226108241117184_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.135.1080.1080/22220688_823990201116883_7891226108241117184_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22220688_823990201116883_7891226108241117184_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22220688_823990201116883_7891226108241117184_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22220688_823990201116883_7891226108241117184_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22277635_130548637671311_3962074066038292480_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 268951
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "“MR. UNDEFEATED”\n50-0 ‘Undefeated’\nMusic by Friyie @artofvangogh \nNOW AVAILABLE on iTunes \nGO BUY NOW!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 27
+        }, 
+        "id": "1618636467544901116", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZ2jUqUgcX8", 
+        "tags": [], 
+        "taken_at_timestamp": 1507176525, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22277635_130548637671311_3962074066038292480_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22277635_130548637671311_3962074066038292480_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22277635_130548637671311_3962074066038292480_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22277635_130548637671311_3962074066038292480_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22277635_130548637671311_3962074066038292480_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22277635_130548637671311_3962074066038292480_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/6eca1c299f63d35ec4d2ecc02feccd98/5A233CBC/t50.2886-16/22252263_1328498733925625_6404640920964169728_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 603, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22157721_1486621918060066_5886084934925287424_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 302325
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "My love for the city of Las Vegas is unconditional! \nI put this city on my back as my home and the place I hold dearest to my heart! My sincerest condolences goes out to the families affected by this senseless act; we will stand together. #VegasStrong and united in our love for this great town. \n#MandalayBay\n#MGMGrand\n#LasVegas\n#Vegas"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5
+        }, 
+        "id": "1618480562966745944", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212901056", 
+            "name": "Las Vegas, Nevada", 
+            "slug": "las-vegas-nevada"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZ1_383gdNY", 
+        "tags": [
+            "MandalayBay", 
+            "LasVegas", 
+            "Vegas", 
+            "VegasStrong", 
+            "MGMGrand"
+        ], 
+        "taken_at_timestamp": 1507157939, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c238.0.603.603/22157721_1486621918060066_5886084934925287424_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c238.0.603.603/22157721_1486621918060066_5886084934925287424_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c238.0.603.603/22157721_1486621918060066_5886084934925287424_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c238.0.603.603/22157721_1486621918060066_5886084934925287424_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/c238.0.603.603/22157721_1486621918060066_5886084934925287424_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/c238.0.603.603/22157721_1486621918060066_5886084934925287424_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22157721_1486621918060066_5886084934925287424_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1271, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22158008_176399582933884_2690227352251662336_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 643452
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Billion Dollar Business"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 392
+        }, 
+        "id": "1618338584987842019", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "1585675725062546", 
+            "name": "Times Square, Manhattan, New York", 
+            "slug": "times-square-manhattan-new-york"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZ1fl5kgjXj", 
+        "tags": [], 
+        "taken_at_timestamp": 1507141014, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.95.1080.1080/22158008_176399582933884_2690227352251662336_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.95.1080.1080/22158008_176399582933884_2690227352251662336_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.95.1080.1080/22158008_176399582933884_2690227352251662336_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.95.1080.1080/22158008_176399582933884_2690227352251662336_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.95.1080.1080/22158008_176399582933884_2690227352251662336_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.95.1080.1080/22158008_176399582933884_2690227352251662336_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22158008_176399582933884_2690227352251662336_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/22071143_1086455591491961_4267339850149003264_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 381609
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Foreign Language\nMusic by @dj_jaybling\n‘4 a check’ NOW AVAILABLE on iTunes"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 4
+        }, 
+        "id": "1617216646139836532", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZxgfimA3h0", 
+        "tags": [], 
+        "taken_at_timestamp": 1507007269, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/22071143_1086455591491961_4267339850149003264_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/22071143_1086455591491961_4267339850149003264_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/22071143_1086455591491961_4267339850149003264_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/22071143_1086455591491961_4267339850149003264_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22071143_1086455591491961_4267339850149003264_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/22071143_1086455591491961_4267339850149003264_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/9d904b25e990dd451eef39d89dfaf8e4/5A22F1D9/t50.2886-16/22182203_1727815484192907_6899300297378627584_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphSidecar", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22158049_1858804277783200_6674086119480492032_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 159276
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "EVERYONE FOLLOW & WISH @melissiarene A VERY HAPPY BIRTHDAY!!!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 59
+        }, 
+        "id": "1615520549117842024", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZre2FJg1Jo", 
+        "tags": [], 
+        "taken_at_timestamp": 1506805078, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/22158049_1858804277783200_6674086119480492032_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/22158049_1858804277783200_6674086119480492032_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/22158049_1858804277783200_6674086119480492032_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/22158049_1858804277783200_6674086119480492032_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22158049_1858804277783200_6674086119480492032_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22158049_1858804277783200_6674086119480492032_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22158049_1858804277783200_6674086119480492032_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22157936_1301285346664512_2658318807554064384_n.jpg", 
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/22069116_1915843282013946_7607550579266551808_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 937, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21984512_156975798223317_4845676850325749760_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 140318
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Happy Birthday @yayasworld"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 37
+        }, 
+        "id": "1614192737790309609", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZmw74fAbTp", 
+        "tags": [], 
+        "taken_at_timestamp": 1506646791, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.90.720.720/21984512_156975798223317_4845676850325749760_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.90.720.720/21984512_156975798223317_4845676850325749760_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.90.720.720/21984512_156975798223317_4845676850325749760_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.90.720.720/21984512_156975798223317_4845676850325749760_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.90.720.720/21984512_156975798223317_4845676850325749760_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.90.720.720/21984512_156975798223317_4845676850325749760_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21984512_156975798223317_4845676850325749760_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21984774_1630757160288327_7322442829022625792_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 354594
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "SELF-MADE.\n\n#BeverlyHills"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1612314187286067649", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZgFzX_gjnB", 
+        "tags": [
+            "BeverlyHills"
+        ], 
+        "taken_at_timestamp": 1506422850, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21984774_1630757160288327_7322442829022625792_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21984774_1630757160288327_7322442829022625792_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21984774_1630757160288327_7322442829022625792_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21984774_1630757160288327_7322442829022625792_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21984774_1630757160288327_7322442829022625792_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21984774_1630757160288327_7322442829022625792_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21984774_1630757160288327_7322442829022625792_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21910820_395306860872682_955060745056288768_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 590212
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Exclusive timeless artwork in my Beverly Hills home.\n\n#BeverlyHills\n\n#90210\n\n#TBE\n\n#TMT"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 3
+        }, 
+        "id": "1612145560234708766", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZffdh0A08e", 
+        "tags": [
+            "TMT", 
+            "TBE", 
+            "BeverlyHills", 
+            "90210"
+        ], 
+        "taken_at_timestamp": 1506402748, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21910820_395306860872682_955060745056288768_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21910820_395306860872682_955060745056288768_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21910820_395306860872682_955060745056288768_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21910820_395306860872682_955060745056288768_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21910820_395306860872682_955060745056288768_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21910820_395306860872682_955060745056288768_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21910820_395306860872682_955060745056288768_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 809, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21879196_1492368637515462_3121273710347026432_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 260969
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Staying focused and in shape.  I keep it simple at my Beverly Hills Estate gym...\n3 flat screen TVs, a state of the art sauna /steam-room/ shower, a bike, and a treadmill. A place of fitness and relaxation all in one.\n#TBE\n#TMT\n#BeverlyHills\n#90210"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1609372339512949037", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZVo52wAjkt", 
+        "tags": [
+            "TMT", 
+            "TBE", 
+            "BeverlyHills", 
+            "90210"
+        ], 
+        "taken_at_timestamp": 1506072154, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c135.0.809.809/21879196_1492368637515462_3121273710347026432_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c135.0.809.809/21879196_1492368637515462_3121273710347026432_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c135.0.809.809/21879196_1492368637515462_3121273710347026432_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c135.0.809.809/21879196_1492368637515462_3121273710347026432_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/21879196_1492368637515462_3121273710347026432_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/21879196_1492368637515462_3121273710347026432_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21879196_1492368637515462_3121273710347026432_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1349, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21690321_638709683183462_381675601653661696_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 630512
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "The grass ain't greener on the other side. \n#Beverly Hills\n#90210\n#TBE\n#TMT"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1
+        }, 
+        "id": "1608379745567893024", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZSHNtmgeYg", 
+        "tags": [
+            "Beverly", 
+            "TMT", 
+            "TBE", 
+            "90210"
+        ], 
+        "taken_at_timestamp": 1505953828, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.117.937.937/21690321_638709683183462_381675601653661696_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.117.937.937/21690321_638709683183462_381675601653661696_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.117.937.937/21690321_638709683183462_381675601653661696_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.117.937.937/21690321_638709683183462_381675601653661696_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/21690321_638709683183462_381675601653661696_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/21690321_638709683183462_381675601653661696_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21690321_638709683183462_381675601653661696_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/21910729_1739475389679693_1659800810302734336_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 503227
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Grabbing a few snacks before watching Sportscenter in my Beverly Hills Palace movie theatre, that comfortably seats 50 people."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1607984585558415824", 
+        "is_video": true, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZQtXYKg1nQ", 
+        "tags": [], 
+        "taken_at_timestamp": 1505906721, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/21910729_1739475389679693_1659800810302734336_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/21910729_1739475389679693_1659800810302734336_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/21910729_1739475389679693_1659800810302734336_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/21910729_1739475389679693_1659800810302734336_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21910729_1739475389679693_1659800810302734336_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21910729_1739475389679693_1659800810302734336_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/7c57a050f2b3e9cefeed81c4d04d345d/5A232573/t50.2886-16/21905168_2042292785990610_2701390951506509824_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21819663_592031600920503_8883185677546553344_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 350224
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "On behalf of The Money Team and myself, I want to send my sincerest condolences to the families of Mexico and to those recently impacted by the tragic weather conditions around the world! You are in our prayers!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 297
+        }, 
+        "id": "1607867498341020259", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZQSviMgzJj", 
+        "tags": [], 
+        "taken_at_timestamp": 1505892763, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21819663_592031600920503_8883185677546553344_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21819663_592031600920503_8883185677546553344_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21819663_592031600920503_8883185677546553344_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21819663_592031600920503_8883185677546553344_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21819663_592031600920503_8883185677546553344_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21819663_592031600920503_8883185677546553344_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21819663_592031600920503_8883185677546553344_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/21819577_298630130616932_620265334208724992_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 212654
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Beverly Hills lifestyle... healthy, wealthy and stress free."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1607831276725913665", 
+        "is_video": true, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZQKgcMAshB", 
+        "tags": [], 
+        "taken_at_timestamp": 1505888445, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/21819577_298630130616932_620265334208724992_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/21819577_298630130616932_620265334208724992_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/21819577_298630130616932_620265334208724992_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/21819577_298630130616932_620265334208724992_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21819577_298630130616932_620265334208724992_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21819577_298630130616932_620265334208724992_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/2cd050388c5b3bb01d0304fbcf940f58/5A229BC6/t50.2886-16/21906277_514419028893315_6081828833944666112_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 890, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21819713_474785452906571_2139493943677550592_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 439507
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "My wine cellar in my Beverly Hills castle."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1
+        }, 
+        "id": "1607081168296058569", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZNf87RgZ7J", 
+        "tags": [], 
+        "taken_at_timestamp": 1505799026, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c95.0.890.890/21819713_474785452906571_2139493943677550592_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c95.0.890.890/21819713_474785452906571_2139493943677550592_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c95.0.890.890/21819713_474785452906571_2139493943677550592_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c95.0.890.890/21819713_474785452906571_2139493943677550592_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c95.0.890.890/21819713_474785452906571_2139493943677550592_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c95.0.890.890/21819713_474785452906571_2139493943677550592_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21819713_474785452906571_2139493943677550592_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1350, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21820422_464961333886037_4183372238784823296_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 519057
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Relaxing in the 90210."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 40
+        }, 
+        "id": "1607072012516204888", 
+        "is_video": false, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZNd3sSgCFY", 
+        "tags": [], 
+        "taken_at_timestamp": 1505797934, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/21820422_464961333886037_4183372238784823296_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.135.1080.1080/21820422_464961333886037_4183372238784823296_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.135.1080.1080/21820422_464961333886037_4183372238784823296_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.135.1080.1080/21820422_464961333886037_4183372238784823296_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/21820422_464961333886037_4183372238784823296_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/21820422_464961333886037_4183372238784823296_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21820422_464961333886037_4183372238784823296_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/21879211_117398778929923_4515691566626504704_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 218674
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Livin' life in Beverly Hills."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 52
+        }, 
+        "id": "1607062883630547503", 
+        "is_video": true, 
+        "location": {
+            "has_public_page": true, 
+            "id": "212970049", 
+            "name": "Beverly Hills, California", 
+            "slug": "beverly-hills-california"
+        }, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZNby2Wg4Iv", 
+        "tags": [], 
+        "taken_at_timestamp": 1505796846, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/21879211_117398778929923_4515691566626504704_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/21879211_117398778929923_4515691566626504704_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/21879211_117398778929923_4515691566626504704_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/21879211_117398778929923_4515691566626504704_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21879211_117398778929923_4515691566626504704_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21879211_117398778929923_4515691566626504704_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/7775ba40686dafe9b3f0e494ec1f6741/5A22F214/t50.2886-16/21877748_118338885530973_4317385960133230592_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e15/21690373_1227676534004347_6589703614275518464_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 178575
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "When it comes to luxury timepieces, Hublot is in a class of its own! As a collector of great watches, it's my personal opinion that every man and woman should have at least one of these classic timepieces in their collection. The Hublot brand knows, time is precious!  #HUBLOT #timepieces #watches"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 3389
+        }, 
+        "id": "1606603028763465719", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZLzPFIg1f3", 
+        "tags": [
+            "HUBLOT", 
+            "timepieces", 
+            "watches"
+        ], 
+        "taken_at_timestamp": 1505742027, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e15/21690373_1227676534004347_6589703614275518464_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e15/21690373_1227676534004347_6589703614275518464_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e15/21690373_1227676534004347_6589703614275518464_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e15/21690373_1227676534004347_6589703614275518464_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21690373_1227676534004347_6589703614275518464_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/e15/21690373_1227676534004347_6589703614275518464_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/vp/a92eb8b86a595784e3f6bdba64fa46cd/5A22C8C9/t50.2886-16/21856820_287102081777397_6643400077094158336_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 640, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21689448_116568255688874_7042016558771601408_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 70821
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans !"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1605227938142308974", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZG6k4MgUpu", 
+        "tags": [], 
+        "taken_at_timestamp": 1505578103, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21689448_116568255688874_7042016558771601408_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21689448_116568255688874_7042016558771601408_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21689448_116568255688874_7042016558771601408_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21689448_116568255688874_7042016558771601408_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21689448_116568255688874_7042016558771601408_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21689448_116568255688874_7042016558771601408_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21689448_116568255688874_7042016558771601408_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/19122102_126321764686100_3567103805436723200_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 88047
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 32
+        }, 
+        "id": "1605227277807811370", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZG6bRNgHsq", 
+        "tags": [], 
+        "taken_at_timestamp": 1505578025, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/19122102_126321764686100_3567103805436723200_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/19122102_126321764686100_3567103805436723200_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/19122102_126321764686100_3567103805436723200_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/19122102_126321764686100_3567103805436723200_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19122102_126321764686100_3567103805436723200_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19122102_126321764686100_3567103805436723200_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/19122102_126321764686100_3567103805436723200_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1217, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21688619_1547588028641740_8637285468272066560_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 56398
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 25
+        }, 
+        "id": "1605226358609399439", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZG6N5JAc6P", 
+        "tags": [], 
+        "taken_at_timestamp": 1505577915, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.54.846.846/21688619_1547588028641740_8637285468272066560_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.54.846.846/21688619_1547588028641740_8637285468272066560_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.54.846.846/21688619_1547588028641740_8637285468272066560_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.54.846.846/21688619_1547588028641740_8637285468272066560_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.54.846.846/21688619_1547588028641740_8637285468272066560_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.54.846.846/21688619_1547588028641740_8637285468272066560_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21688619_1547588028641740_8637285468272066560_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21690726_129680104343842_6315787814365560832_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 82754
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly appreciate love & appreciate all my fans."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 44
+        }, 
+        "id": "1605226047736067988", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZG6JXngzeU", 
+        "tags": [], 
+        "taken_at_timestamp": 1505577878, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21690726_129680104343842_6315787814365560832_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21690726_129680104343842_6315787814365560832_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21690726_129680104343842_6315787814365560832_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21690726_129680104343842_6315787814365560832_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690726_129680104343842_6315787814365560832_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690726_129680104343842_6315787814365560832_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21690726_129680104343842_6315787814365560832_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21576754_524782031194408_6773103261890117632_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 108722
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate my fans."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 732
+        }, 
+        "id": "1604587324971376103", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZEo6usA13n", 
+        "tags": [], 
+        "taken_at_timestamp": 1505501736, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21576754_524782031194408_6773103261890117632_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21576754_524782031194408_6773103261890117632_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21576754_524782031194408_6773103261890117632_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21576754_524782031194408_6773103261890117632_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21576754_524782031194408_6773103261890117632_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21576754_524782031194408_6773103261890117632_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21576754_524782031194408_6773103261890117632_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1143, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21819622_115899082426048_7864364450764029952_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 160680
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 6
+        }, 
+        "id": "1604368679804430298", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZD3NBggWfa", 
+        "tags": [], 
+        "taken_at_timestamp": 1505475672, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.23.795.795/21819622_115899082426048_7864364450764029952_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.23.795.795/21819622_115899082426048_7864364450764029952_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.23.795.795/21819622_115899082426048_7864364450764029952_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.23.795.795/21819622_115899082426048_7864364450764029952_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.23.795.795/21819622_115899082426048_7864364450764029952_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.23.795.795/21819622_115899082426048_7864364450764029952_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21819622_115899082426048_7864364450764029952_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21688866_514177352267177_2043773618164334592_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 63175
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 16
+        }, 
+        "id": "1604367724887211334", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZD2_ILAP1G", 
+        "tags": [], 
+        "taken_at_timestamp": 1505475558, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21688866_514177352267177_2043773618164334592_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21688866_514177352267177_2043773618164334592_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21688866_514177352267177_2043773618164334592_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21688866_514177352267177_2043773618164334592_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688866_514177352267177_2043773618164334592_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688866_514177352267177_2043773618164334592_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21688866_514177352267177_2043773618164334592_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21576735_176941319541803_8961295559109378048_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 69126
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1604366892015916821", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZD2zAgAZcV", 
+        "tags": [], 
+        "taken_at_timestamp": 1505475459, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21576735_176941319541803_8961295559109378048_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21576735_176941319541803_8961295559109378048_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21576735_176941319541803_8961295559109378048_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21576735_176941319541803_8961295559109378048_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21576735_176941319541803_8961295559109378048_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21576735_176941319541803_8961295559109378048_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21576735_176941319541803_8961295559109378048_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21690587_422089501521393_5104578887677902848_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 45035
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1
+        }, 
+        "id": "1604365876147111435", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZD2kOZgcYL", 
+        "tags": [], 
+        "taken_at_timestamp": 1505475337, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21690587_422089501521393_5104578887677902848_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21690587_422089501521393_5104578887677902848_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21690587_422089501521393_5104578887677902848_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21690587_422089501521393_5104578887677902848_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690587_422089501521393_5104578887677902848_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690587_422089501521393_5104578887677902848_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21690587_422089501521393_5104578887677902848_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1319, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21826930_1410485162428502_8864604631116808192_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 55212
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 0
+        }, 
+        "id": "1604363397305084343", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZD2AJzAim3", 
+        "tags": [], 
+        "taken_at_timestamp": 1505475042, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/c0.101.916.916/21826930_1410485162428502_8864604631116808192_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/c0.101.916.916/21826930_1410485162428502_8864604631116808192_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/c0.101.916.916/21826930_1410485162428502_8864604631116808192_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/c0.101.916.916/21826930_1410485162428502_8864604631116808192_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.101.916.916/21826930_1410485162428502_8864604631116808192_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.101.916.916/21826930_1410485162428502_8864604631116808192_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21826930_1410485162428502_8864604631116808192_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": true, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21569394_1400633083319394_5497866981388320768_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 53196
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "I truly love & appreciate all my fans!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 21
+        }, 
+        "id": "1604362744956664746", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "16264572"
+        }, 
+        "shortcode": "BZD12qQAzuq", 
+        "tags": [], 
+        "taken_at_timestamp": 1505474964, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s150x150/e35/21569394_1400633083319394_5497866981388320768_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s240x240/e35/21569394_1400633083319394_5497866981388320768_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s320x320/e35/21569394_1400633083319394_5497866981388320768_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s480x480/e35/21569394_1400633083319394_5497866981388320768_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21569394_1400633083319394_5497866981388320768_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21569394_1400633083319394_5497866981388320768_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-1.cdninstagram.com/t51.2885-15/e35/21569394_1400633083319394_5497866981388320768_n.jpg"
+        ]
+    }
+]

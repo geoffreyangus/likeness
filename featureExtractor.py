@@ -11,10 +11,10 @@ class FeatureExtractor():
 	def extract(self,jsonBlob):
 		imagePath = jsonBlob['imagePath']
 		self.img = cv2.imread(imagePath)
-		self.gray = cv2.cvtColor(self.img, cv2.COLOR_BGR2GRAY)
+		self.gray = np.array(color.rgb2gray(self.img), dtype='uint8')
 		self.caption = jsonBlob['caption']
 		self.timeStamp = jsonBlob['timestamp']
-		self.features = []
+		self.features = [jsonBlob['user']['averageLikes']]
 
 		self.stemmer = PorterStemmer()
 		reader = csv.reader(open('sentiment.txt', 'rb'))

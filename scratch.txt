@@ -1,0 +1,1 @@
+instagram-scraper -f ig_users.txt --retain-username --media-types image --maximum 50 --media-metadata --include-location

@@ -3,6 +3,8 @@ import cv2
 import util
 from sklearn import linear_model
 from featureExtractor import FeatureExtractor
+from sklearn.svm import SVR
+from sklearn.neural_network import MLPRegressor
 
 import warnings
 
@@ -23,7 +25,7 @@ class DummyFeatureExtractor():
 class LikenessV1():
 	theta = np.random.random(15)
 	classifier = None
-	# Trains the model. Takes all data and extracts 19-vectors from the posts.
+	# Trains the model. Takes all data and extracts 15-vectors from the posts.
 	# Runs Minibatch Gradient Descent to optimize and return a weight vector.
 	def train(self, data, featureExtractor):
 		X = []
@@ -43,6 +45,9 @@ class LikenessV1():
 
 		X = np.asarray(X)
 		Y = np.asarray(Y)
+
+		self.cacheData(X, Y)
+
 		print(X.shape)
 		print(Y.shape)
 
@@ -52,6 +57,111 @@ class LikenessV1():
 
 	def predict(self, x):
 		return self.classifier.predict(x)
+
+	def cacheData(self):
+		print 'stub implementation'
+
+class LikenessV2():
+	theta = np.random.random(15)
+	classifier = None
+
+	# Trains the model. Takes all data and extracts 15-vectors from the posts.
+	# Runs Minibatch Gradient Descent to optimize and return a weight vector.
+	def train(self, data, featureExtractor):
+		X = []
+		Y = []
+		print("training on " + str(len(data)) + " examples")
+		count = 0
+		for example in data:
+			# print(example)
+			output = featureExtractor(example)
+			# print(output)
+			X.append(output[0])
+			Y.append(output[1])
+
+			if count%50 == 0:
+				print(str(count*1.0/len(data)) + "\% done!")
+			count+=1
+
+		X = np.asarray(X)
+		Y = np.asarray(Y)
+
+		self.cacheData(X, Y)
+
+		print(X.shape)
+		print(Y.shape)
+
+		self.classifier = SVR(kernel='poly', C=1e3, degree=2)
+		self.classifier.fit(X, Y)
+		self.theta = self.classifier.coef_
+		return self.theta
+
+	def predict(self, x):
+		return self.classifier.predict(x)
+
+	def cacheData(self):
+		print 'stub implementation'
+
+class LikenessV3():
+	classifier = None
+
+	# Trains the model. Takes all data and extracts 15-vectors from the posts.
+	# Runs Minibatch Gradient Descent to optimize and return a weight vector.
+	def train(self, data, featureExtractor):
+		X = []
+		Y = []
+		print("training on " + str(len(data)) + " examples")
+		count = 0
+		for example in data:
+			# print(example)
+			output = featureExtractor(example)
+			# print(output)
+			X.append(output[0])
+			Y.append(output[1])
+
+			if count%50 == 0:
+				print(str(count*1.0/len(data)) + "\% done!")
+			count+=1
+
+		X = np.asarray(X)
+		Y = np.asarray(Y)
+
+		self.cacheData(X, Y)
+
+		print(X.shape)
+		print(Y.shape)
+
+		self.classifier = MLPRegressor(
+			hidden_layer_sizes=(100, ), 
+			activation='relu', 
+			solver='adam', 
+			alpha=0.0001, 
+			batch_size='auto', 
+			learning_rate='constant', 
+			learning_rate_init=0.001, 
+			power_t=0.5, 
+			max_iter=200, 
+			shuffle=True, 
+			random_state=None, 
+			tol=0.0001, 
+			verbose=False, 
+			warm_start=False, 
+			momentum=0.9, 
+			nesterovs_momentum=True, 
+			early_stopping=False, 
+			validation_fraction=0.1, 
+			beta_1=0.9, 
+			beta_2=0.999, 
+			epsilon=1e-08
+		)
+		self.classifier.fit(X, Y)
+
+	def predict(self, x):
+		return self.classifier.predict(x)
+
+	def cacheData(self, X, Y):
+		print 'stub implementation'
+
 
 # Class: BaseLineAlgorithm
 # ------------------------
@@ -108,13 +218,13 @@ class BaseLineAlgorithm():
 # baseline = BaseLineAlgorithm()
 # util.printBaselineResults(baseline)
 
-data = util.getMetadata()
-train, test = util.getDataSplit(data)
+data = util.getMetadata(readCache=False)
+train, test = util.getDataSplit(data, readCache=False)
 
 # extractor = DummyFeatureExtractor()
 
 extractor = FeatureExtractor()
-model = LikenessV1()
+model = LikenessV2()
 model.train(train, extractor.extract)
 
 cumulativeError = 0.0

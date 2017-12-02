@@ -11,7 +11,7 @@ from featureExtractor import FeatureExtractor
 # Gets the usernames from the ig_users.txt file
 def getUsernames():
 	result = []
-	with open('ig_users.txt') as users:
+	with open('users/ig_users.txt') as users:
 		result = users.read().splitlines()
 	return result
 
@@ -25,7 +25,7 @@ def extractImagePathFromURL(url, newRelativePath):
 	return newRelativePath + url[index:]
 
 # Gets all relevant metadata given a user's username.
-def getMetadata(readCache = True):
+def getMetadata(readCache=True):
 	# If file already cached, simply extract data from the file
 	if readCache and os.path.isfile(PROCESSED_DATA_PATH) and os.path.getsize(PROCESSED_DATA_PATH) > 0:
 		return getMetadataFromFile()
@@ -57,23 +57,19 @@ def getMetadataByUsername(username):
 		for pic in data:
 			imageData = {}
 			if pic == data[0]:
-				s = pic['user']['profile_picture']
-				relativePath = './users/'+username
-				user['profilePicPath'] = extractImagePathFromURL(s, relativePath)
-				user['fullName'] = pic['user']['full_name']
-				user['username'] = pic['user']['username']
+				user['username'] = username
 			imageData['user'] = user
 			if validatePic(pic):
-				s = pic['images']['low_resolution']['url']
+				s = pic['display_url']
 				relativePath = './users/'+username
 				imageData['imagePath'] = extractImagePathFromURL(s, relativePath)
-				imageData['name'] = pic['user']['full_name']
-				imageData['timestamp'] = pic['created_time']
-				if not (pic['caption'] and pic['caption']['text']):
+				imageData['name'] = username
+				imageData['timestamp'] = pic['taken_at_timestamp']
+				if not (pic['edge_media_to_caption'] and len(pic['edge_media_to_caption']['edges']) > 0):
 					imageData['caption'] = ''
 				else:
-					imageData['caption'] = pic['caption']['text']
-				imageData['likes'] = pic['likes']['count']
+					imageData['caption'] = pic['edge_media_to_caption']['edges'][0]['node']['text']
+				imageData['likes'] = pic['edge_media_preview_like']['count']
 
 				likeSum += imageData['likes']
 				commentSum += len(imageData['caption'])
@@ -94,15 +90,13 @@ def getMetadataByUsername(username):
 def validatePic(pic):
 	if not pic:
 		return False
-	if not (pic['type'] and pic['type'] == 'image'):
+	if not (pic['__typename'] and pic['__typename'] == 'GraphImage'):
 		return False
-	if not (pic['user'] and pic['user']['full_name']):
+	if not (pic['taken_at_timestamp']):
 		return False
-	if not (pic['created_time']):
+	if not (pic['edge_media_preview_like'] and pic['edge_media_preview_like']['count']):
 		return False
-	if not (pic['likes'] and pic['likes']['count']):
-		return False
-	if not (pic['images'] and pic['images']['low_resolution']):
+	if not (pic['display_url']):
 		return False
 	return True
 
@@ -126,14 +120,14 @@ def getDataSplit(data, readCache=True):
 			test = json.load(json_data)
 		return (train, test)
 
-	return util.generateNewDataSplit(data)
+	return generateNewDataSplit(data)
 
 def generateNewDataSplit(data):
 	newTestDataset = list(np.random.choice(data, int(round(len(data) * 0.2)), replace=False))
-	with open(TEST_PATH, 'w+') as f:
+	with open(TEST_PATH, 'w') as f:
 		json.dump(newTestDataset, f, indent=4)
 	newTrainDataset = [x for x in data if x not in newTestDataset]
-	with open(TRAIN_PATH, 'w+') as f:
+	with open(TRAIN_PATH, 'w') as f:
 		json.dump(newTrainDataset, f, indent=4)
 	return (newTrainDataset, newTestDataset)
 

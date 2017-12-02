@@ -1,0 +1,3285 @@
+[
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 362, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/24274444_455052848229774_1690954626167209984_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 56242
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#tbt groovado , suingado!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1753
+        }, 
+        "id": "1659515005983646864", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcHyBr_FeSQ", 
+        "tags": [
+            "tbt"
+        ], 
+        "taken_at_timestamp": 1512049650, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c139.0.362.362/24274444_455052848229774_1690954626167209984_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c139.0.362.362/24274444_455052848229774_1690954626167209984_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c139.0.362.362/24274444_455052848229774_1690954626167209984_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c139.0.362.362/24274444_455052848229774_1690954626167209984_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c139.0.362.362/24274444_455052848229774_1690954626167209984_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c139.0.362.362/24274444_455052848229774_1690954626167209984_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/48874705b0661faad1ee09ff9de6b63c/5A22CC70/t50.2886-16/24283251_1374013839390925_3355147908113498112_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24127188_2002071080072343_3635328398861008896_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 23440
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "O “Nosso Pop” tá arrasando demais! Se junta comigo e com @mc_livinho e curte muito “Cheguei Pra Te Amar” nessa playlist maravilhosa da @deezerbr . Corre lá e dá o play! 💕🎧⚡ Link no Stories 😍"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 173
+        }, 
+        "id": "1659467240545065687", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcHnKm9FhrX", 
+        "tags": [], 
+        "taken_at_timestamp": 1512043932, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/24127188_2002071080072343_3635328398861008896_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/24127188_2002071080072343_3635328398861008896_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/24127188_2002071080072343_3635328398861008896_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/24127188_2002071080072343_3635328398861008896_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24127188_2002071080072343_3635328398861008896_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24127188_2002071080072343_3635328398861008896_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24127188_2002071080072343_3635328398861008896_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1214, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24177357_1794864124144426_8438073877082406912_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 471896
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Para não gente!!!! Saúde sempre !"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 3271
+        }, 
+        "id": "1658923702132556750", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcFrlFXFkPO", 
+        "tags": [], 
+        "taken_at_timestamp": 1511979137, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c0.58.931.931/24177357_1794864124144426_8438073877082406912_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c0.58.931.931/24177357_1794864124144426_8438073877082406912_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c0.58.931.931/24177357_1794864124144426_8438073877082406912_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c0.58.931.931/24177357_1794864124144426_8438073877082406912_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.58.931.931/24177357_1794864124144426_8438073877082406912_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.58.931.931/24177357_1794864124144426_8438073877082406912_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24177357_1794864124144426_8438073877082406912_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 607, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s1080x1080/e15/fr/24175695_374786632946239_357564827779989504_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 39842
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Essa semana não tem #thevoicebrasil, mas semana que vem vamos curtir em dobro. 😍 📺"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 481
+        }, 
+        "id": "1658200200714829721", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcDHEwKFr-Z", 
+        "tags": [
+            "thevoicebrasil"
+        ], 
+        "taken_at_timestamp": 1511893083, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c236.0.607.607/24175695_374786632946239_357564827779989504_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c236.0.607.607/24175695_374786632946239_357564827779989504_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c236.0.607.607/24175695_374786632946239_357564827779989504_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c236.0.607.607/24175695_374786632946239_357564827779989504_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c236.0.607.607/24175695_374786632946239_357564827779989504_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c236.0.607.607/24175695_374786632946239_357564827779989504_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/c5888191c1f713c51e3c354e92bc8c87/5A22EE7B/t50.2886-16/24211719_1974760852771611_3749083687187120128_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24125300_1957817417876008_8967894419877396480_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 93528
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Oi! 🐶 ❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 938
+        }, 
+        "id": "1658069567875198106", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcCpXy2Fiya", 
+        "tags": [], 
+        "taken_at_timestamp": 1511877316, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/24125300_1957817417876008_8967894419877396480_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/24125300_1957817417876008_8967894419877396480_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/24125300_1957817417876008_8967894419877396480_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/24125300_1957817417876008_8967894419877396480_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24125300_1957817417876008_8967894419877396480_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24125300_1957817417876008_8967894419877396480_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24125300_1957817417876008_8967894419877396480_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23970320_1476013139181457_8698956834955853824_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 1324562
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "...\" o amor que hj eu levo dentro do meu peito é o meu maior presente\" . O amor vencerá sempre! @brunogagliasso @gio_ewbank , junto com vcs! ❤️🙏🏻"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 16643
+        }, 
+        "id": "1657462098094226422", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcAfP8hlHv2", 
+        "tags": [], 
+        "taken_at_timestamp": 1511804900, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23970320_1476013139181457_8698956834955853824_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23970320_1476013139181457_8698956834955853824_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23970320_1476013139181457_8698956834955853824_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23970320_1476013139181457_8698956834955853824_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23970320_1476013139181457_8698956834955853824_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23970320_1476013139181457_8698956834955853824_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23970320_1476013139181457_8698956834955853824_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24126758_132917234090840_4624428361760899072_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 103210
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Meus zamuris, nesse Natal não é só pisca-pisca que vai brilhar, não! O Natal da Leader tá cheinho de novidades pra deixar a sua casa linda para as festas e vários looks incríveis pra você arrasar. #JáéNatalnaLeader #publi"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 854
+        }, 
+        "id": "1657351329713350942", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BcAGEDbleke", 
+        "tags": [
+            "JáéNatalnaLeader", 
+            "publi"
+        ], 
+        "taken_at_timestamp": 1511791696, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/24126758_132917234090840_4624428361760899072_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/24126758_132917234090840_4624428361760899072_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/24126758_132917234090840_4624428361760899072_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/24126758_132917234090840_4624428361760899072_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24126758_132917234090840_4624428361760899072_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24126758_132917234090840_4624428361760899072_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24126758_132917234090840_4624428361760899072_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24127198_1749796501988908_7444629017891700736_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 777308
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hj tem papo gostoso com @polianaabritta no @showdavida . Assistam!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5146
+        }, 
+        "id": "1656845380359642549", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb-TBhYFV21", 
+        "tags": [], 
+        "taken_at_timestamp": 1511731382, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/24127198_1749796501988908_7444629017891700736_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/24127198_1749796501988908_7444629017891700736_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/24127198_1749796501988908_7444629017891700736_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/24127198_1749796501988908_7444629017891700736_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24127198_1749796501988908_7444629017891700736_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24127198_1749796501988908_7444629017891700736_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/24127198_1749796501988908_7444629017891700736_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 640, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23967120_144310083003300_8822107819508498432_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 89419
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Bom começo de domingo pra todo mundo ! Rir é o melhor remédio. @paulogustavo31 , porque eu lhe amo assim...??? 😂😂😂😂😂😂😂😂"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2875
+        }, 
+        "id": "1656564163785576051", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb9TFSCFM5z", 
+        "tags": [], 
+        "taken_at_timestamp": 1511697907, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/23967120_144310083003300_8822107819508498432_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/23967120_144310083003300_8822107819508498432_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/23967120_144310083003300_8822107819508498432_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/23967120_144310083003300_8822107819508498432_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23967120_144310083003300_8822107819508498432_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23967120_144310083003300_8822107819508498432_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/642b44aa6e9076710958174f67ec4730/5A22E786/t50.2886-16/24163681_132436837442642_1625137516531154944_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 937, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23825077_1600210890043509_499192564071530496_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 386746
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Que dia lindo que fez hj aqui em Salvador. E que passeio mais delicioso pela Baía de Todos os Santos. Eita Bahia linda meu Deus🙏🏻 @nautica_express arrasou! Bom demais🌟☀️🛥"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5135
+        }, 
+        "id": "1656076654915994222", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb7kPGBFcJu", 
+        "tags": [], 
+        "taken_at_timestamp": 1511639933, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c0.90.720.720/23825077_1600210890043509_499192564071530496_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c0.90.720.720/23825077_1600210890043509_499192564071530496_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c0.90.720.720/23825077_1600210890043509_499192564071530496_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c0.90.720.720/23825077_1600210890043509_499192564071530496_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.90.720.720/23825077_1600210890043509_499192564071530496_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.90.720.720/23825077_1600210890043509_499192564071530496_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/d4e73c18539ea6e8a6e3eee1c455c7fe/5A22D844/t50.2886-16/24142940_1712294032175022_7293059600541024256_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1075, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23967562_303146346852933_7823906357051916288_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 276577
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "🌈"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1781
+        }, 
+        "id": "1655375320772403428", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb5ExVslmDk", 
+        "tags": [], 
+        "taken_at_timestamp": 1511556137, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c2.0.1075.1075/23967562_303146346852933_7823906357051916288_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c2.0.1075.1075/23967562_303146346852933_7823906357051916288_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c2.0.1075.1075/23967562_303146346852933_7823906357051916288_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c2.0.1075.1075/23967562_303146346852933_7823906357051916288_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c2.0.1075.1075/23967562_303146346852933_7823906357051916288_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c2.0.1075.1075/23967562_303146346852933_7823906357051916288_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23967562_303146346852933_7823906357051916288_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23824914_138206826950952_8675803624040824832_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 38303
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Zamuris, agora vocês já podem ter Cheguei pra te Amar, À Vontade e muitas outras músicas no novo CD Duetos 2!  Corre, acesse e confira. Link no Stories 😉\n#IveteDuetos2"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 400
+        }, 
+        "id": "1655197882067164593", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb4cbRBl52x", 
+        "tags": [
+            "IveteDuetos2"
+        ], 
+        "taken_at_timestamp": 1511534985, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23824914_138206826950952_8675803624040824832_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23824914_138206826950952_8675803624040824832_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23824914_138206826950952_8675803624040824832_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23824914_138206826950952_8675803624040824832_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23824914_138206826950952_8675803624040824832_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23824914_138206826950952_8675803624040824832_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23824914_138206826950952_8675803624040824832_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 612, 
+            "width": 612
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23823317_513342302355407_6593090294772662272_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 102240
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Olá gente ! Esse lindão se chama Daniel Neves e fará uma exposição linda das suas obras de arte. O evento acontece no hotel São Salvador no dia 1 de dezembro em Salvador -Ba. Toda a renda será para o tratamento que ele precisa fazer.\nVamos lá! Vamos conferir o nosso lindo artista ."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2320
+        }, 
+        "id": "1655096590506371740", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb4FZR6F6qc", 
+        "tags": [], 
+        "taken_at_timestamp": 1511523437, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/23823317_513342302355407_6593090294772662272_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/23823317_513342302355407_6593090294772662272_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/23823317_513342302355407_6593090294772662272_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/23823317_513342302355407_6593090294772662272_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23823317_513342302355407_6593090294772662272_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23823317_513342302355407_6593090294772662272_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/13912be2ade8b977a3d130acaaa4e19c/5A232D7B/t50.2886-16/24097849_341856789619938_6038590612196818944_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 765, 
+            "width": 612
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23824721_314293585719934_1303901437696147456_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 37924
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Porque meu nome é alegria! Obrigada zamurinhos por mais esse super presente. Clipe mais lindo !! Assistam!! Link na Bio 👍🏻"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 606
+        }, 
+        "id": "1654626596907584980", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb2ah-Qlw3U", 
+        "tags": [], 
+        "taken_at_timestamp": 1511466894, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c0.76.612.612/23824721_314293585719934_1303901437696147456_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c0.76.612.612/23824721_314293585719934_1303901437696147456_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c0.76.612.612/23824721_314293585719934_1303901437696147456_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c0.76.612.612/23824721_314293585719934_1303901437696147456_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c0.76.612.612/23824721_314293585719934_1303901437696147456_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c0.76.612.612/23824721_314293585719934_1303901437696147456_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/75775c5709a0f9a8f4fe75ffbc655834/5A22EA8C/t50.2886-16/24058062_1547191915369720_5481676002654420992_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23967486_1354003911378236_7549771195982282752_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 333236
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Mantendo a saúde em dia! O nosso bem maior, o que não se compra . Manter e conquistar ! Um lindo dia pra nós zamurinhos ❤️ @joca_gonzalez @danielcady"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2043
+        }, 
+        "id": "1654484297007293001", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb16LPJlOJJ", 
+        "tags": [], 
+        "taken_at_timestamp": 1511449919, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23967486_1354003911378236_7549771195982282752_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23967486_1354003911378236_7549771195982282752_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23967486_1354003911378236_7549771195982282752_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23967486_1354003911378236_7549771195982282752_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23967486_1354003911378236_7549771195982282752_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23967486_1354003911378236_7549771195982282752_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23967486_1354003911378236_7549771195982282752_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23825246_909736852533486_3856834624118325248_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 240662
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#foraforo #naoaoforoprivilegiado #opovoquemmanda"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 3122
+        }, 
+        "id": "1654045142196471546", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bb0WUsXFMb6", 
+        "tags": [
+            "opovoquemmanda", 
+            "naoaoforoprivilegiado", 
+            "foraforo"
+        ], 
+        "taken_at_timestamp": 1511397568, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23825246_909736852533486_3856834624118325248_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23825246_909736852533486_3856834624118325248_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23825246_909736852533486_3856834624118325248_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23825246_909736852533486_3856834624118325248_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23825246_909736852533486_3856834624118325248_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23825246_909736852533486_3856834624118325248_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23825246_909736852533486_3856834624118325248_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23734434_214576039083406_8314352916009844736_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 420724
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tudo gente linda que eu amo!!! ❤️❤️❤️❤️ @angelicaksy @marixioficial @cleooficial"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1996
+        }, 
+        "id": "1653768959139580843", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbzXhs2FQur", 
+        "tags": [], 
+        "taken_at_timestamp": 1511364644, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23734434_214576039083406_8314352916009844736_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23734434_214576039083406_8314352916009844736_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23734434_214576039083406_8314352916009844736_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23734434_214576039083406_8314352916009844736_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734434_214576039083406_8314352916009844736_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734434_214576039083406_8314352916009844736_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23734434_214576039083406_8314352916009844736_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1076, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23823218_2038928929455806_5114966227428573184_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 324989
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Que delícia de jantar! Meninas , vamos repetir a dose ! @angelicaksy @polianaabritta @marixioficial ❤️❤️❤️❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1479
+        }, 
+        "id": "1653430197352262962", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbyKgEWFe0y", 
+        "tags": [], 
+        "taken_at_timestamp": 1511324260, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c2.0.1076.1076/23823218_2038928929455806_5114966227428573184_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c2.0.1076.1076/23823218_2038928929455806_5114966227428573184_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c2.0.1076.1076/23823218_2038928929455806_5114966227428573184_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c2.0.1076.1076/23823218_2038928929455806_5114966227428573184_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c2.0.1076.1076/23823218_2038928929455806_5114966227428573184_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c2.0.1076.1076/23823218_2038928929455806_5114966227428573184_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23823218_2038928929455806_5114966227428573184_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23734290_377144266042063_503883334078693376_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 340878
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hj tem #thevoicebrasil !! Porque na quinta tem jogo então teremos festa hj!\nFoto: João Miguel Júnior"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2000
+        }, 
+        "id": "1653213975939521927", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbxZVodlh2H", 
+        "tags": [
+            "thevoicebrasil"
+        ], 
+        "taken_at_timestamp": 1511298485, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23734290_377144266042063_503883334078693376_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23734290_377144266042063_503883334078693376_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23734290_377144266042063_503883334078693376_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23734290_377144266042063_503883334078693376_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734290_377144266042063_503883334078693376_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734290_377144266042063_503883334078693376_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23734290_377144266042063_503883334078693376_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23735296_2039813586239679_7268079851704156160_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 229126
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Um dia maravilhoso pra todos nós! 🙏🏻\nSe esse pier falasse .... 🙈 @danielcady"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2025
+        }, 
+        "id": "1653077939880111604", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bbw6aDAlq30", 
+        "tags": [], 
+        "taken_at_timestamp": 1511282268, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23735296_2039813586239679_7268079851704156160_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23735296_2039813586239679_7268079851704156160_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23735296_2039813586239679_7268079851704156160_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23735296_2039813586239679_7268079851704156160_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23735296_2039813586239679_7268079851704156160_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23735296_2039813586239679_7268079851704156160_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23735296_2039813586239679_7268079851704156160_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 640, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23667920_1463485577100567_5853272982511681536_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 60655
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Porque sou uma mulher de sorte , e sempre muito bem acompanhada de bons corações e almas maravilhosas. O que dizer a vcs sobre esse nosso #BAZARIVETESANGALO ! Obrigada do tamanho do nosso amor. Quantas pessoas serão beneficiadas com esse trabalho e dedicação de todos. Meu coração transborda de gratidão\nParabéns meus amigos! @iessi_entertainment e todos os parceiros lindos dessa jornada!❤️❤️❤️❤️❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 362
+        }, 
+        "id": "1652530385614419267", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bbu96FXFjVD", 
+        "tags": [
+            "BAZARIVETESANGALO"
+        ], 
+        "taken_at_timestamp": 1511217162, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/23667920_1463485577100567_5853272982511681536_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/23667920_1463485577100567_5853272982511681536_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/23667920_1463485577100567_5853272982511681536_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/23667920_1463485577100567_5853272982511681536_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23667920_1463485577100567_5853272982511681536_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23667920_1463485577100567_5853272982511681536_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/99271c38deba906fd4b253ef5e227a30/5A22F646/t50.2886-16/23796287_189760571576964_7784730577365630976_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23734520_127438667927037_7085643303261044736_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 81268
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "O olhar torto,\nA restrição,\nPerceber a indecência de alguém apontar o dedo a um indivíduo  pela sua cor,\nA angústia, a dor \nA impotência diante do olhar do outro...\nA revolta, a falta de oportunidade \nA incompreensão do que ser.  Ser o que? Humano!!! O bom é poder ser vc, ser negro, ser o que se é, e ser ser! É o respeito que nutrirá a nossa alma e consciência . Tudo passa primeiro pelo respeito. Perceba intimamente a sua necessidade de ser respeitado e verá com mais clareza o que deve ser feito perante o outro. #diadaconsciencianegra"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 796
+        }, 
+        "id": "1652366942873694008", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbuYvrcla84", 
+        "tags": [
+            "diadaconsciencianegra"
+        ], 
+        "taken_at_timestamp": 1511197511, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23734520_127438667927037_7085643303261044736_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23734520_127438667927037_7085643303261044736_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23734520_127438667927037_7085643303261044736_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23734520_127438667927037_7085643303261044736_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734520_127438667927037_7085643303261044736_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734520_127438667927037_7085643303261044736_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23734520_127438667927037_7085643303261044736_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23667959_580912668967087_5669905744720297984_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 2610898
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Pense numa mulher que está se sentindo! EU!!! Dia de sol e muita alegria aqui dentro. Um domingo de amor pra gente❤️🍼🍼 tô muito gravidínea 😂"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 55793
+        }, 
+        "id": "1651718596110702235", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbsFU_eFdab", 
+        "tags": [], 
+        "taken_at_timestamp": 1511120222, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23667959_580912668967087_5669905744720297984_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23667959_580912668967087_5669905744720297984_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23667959_580912668967087_5669905744720297984_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23667959_580912668967087_5669905744720297984_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23667959_580912668967087_5669905744720297984_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23667959_580912668967087_5669905744720297984_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23667959_580912668967087_5669905744720297984_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 640, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23596163_507169439638420_2117506429836328960_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 312348
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Vou dormir feliz! As grávidas lindas de Juazeiro me fizeram esse dengo. Se era pra deixar feliz, conseguiram! Que coisa mais linda!❤️ viva nossos babys"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5476
+        }, 
+        "id": "1651150148020386531", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbqEE-7lrrj", 
+        "tags": [], 
+        "taken_at_timestamp": 1511052502, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/23596163_507169439638420_2117506429836328960_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/23596163_507169439638420_2117506429836328960_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/23596163_507169439638420_2117506429836328960_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/23596163_507169439638420_2117506429836328960_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23596163_507169439638420_2117506429836328960_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23596163_507169439638420_2117506429836328960_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/05b9cd32c30f5b4cdbc90570a49b8275/5A22CF78/t50.2886-16/23664011_135356347124345_4853764604456599552_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 419, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23596661_159347198001614_2301914170699808768_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 50511
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Fim de semana, CHEGUEI PRA TE AMAR!! Link na Bio 😍"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 706
+        }, 
+        "id": "1650333577924484010", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbnKaUxFpuq", 
+        "tags": [], 
+        "taken_at_timestamp": 1510955171, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c158.0.403.403/23596661_159347198001614_2301914170699808768_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c158.0.403.403/23596661_159347198001614_2301914170699808768_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c158.0.403.403/23596661_159347198001614_2301914170699808768_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c158.0.403.403/23596661_159347198001614_2301914170699808768_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c158.0.403.403/23596661_159347198001614_2301914170699808768_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c158.0.403.403/23596661_159347198001614_2301914170699808768_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/e18e06287c89eb8b847d04699ece4bd5/5A233573/t50.2886-16/23662570_1957164721167983_5302349985491189760_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 607, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s1080x1080/e15/fr/23594247_1989424094667987_5059008687666888704_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 77996
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Meus amores, vocês sabem bem que economizar na conta de luz é bom pro bolso e pro mundo, né? Então fiquem ligados nessas dicas para gastar menos e fazer seu dinheiro render muito mais. Confira mais dicas em: www.poupestar.com.br  #PoupeStar #ConsumoConsciente #EconomizeEnergia #Abradee #IveteSangalo #Veveta"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 743
+        }, 
+        "id": "1650230444275723235", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bbmy9iEluvj", 
+        "tags": [
+            "PoupeStar", 
+            "ConsumoConsciente", 
+            "IveteSangalo", 
+            "Veveta", 
+            "EconomizeEnergia", 
+            "Abradee"
+        ], 
+        "taken_at_timestamp": 1510943281, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c236.0.607.607/23594247_1989424094667987_5059008687666888704_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c236.0.607.607/23594247_1989424094667987_5059008687666888704_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c236.0.607.607/23594247_1989424094667987_5059008687666888704_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c236.0.607.607/23594247_1989424094667987_5059008687666888704_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c236.0.607.607/23594247_1989424094667987_5059008687666888704_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c236.0.607.607/23594247_1989424094667987_5059008687666888704_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/e891d4565ad0d8e1136bc9ce957b88c7/5A22E528/t50.2886-16/23763308_155733318372925_7425756725434646528_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23594247_1161025390698063_6133815319958913024_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 424206
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hj tem noite de música e emoção! #thevoicebrasil \nAssistam #teamivete\nFoto linda de @isabellapinheiro"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 2473
+        }, 
+        "id": "1649658889111975453", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbkxAT2FbYd", 
+        "tags": [
+            "thevoicebrasil", 
+            "teamivete"
+        ], 
+        "taken_at_timestamp": 1510874685, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23594247_1161025390698063_6133815319958913024_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23594247_1161025390698063_6133815319958913024_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23594247_1161025390698063_6133815319958913024_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23594247_1161025390698063_6133815319958913024_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23594247_1161025390698063_6133815319958913024_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23594247_1161025390698063_6133815319958913024_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23594247_1161025390698063_6133815319958913024_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23596383_849656825201929_5853500809051897856_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 490114
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Bemmmmmm menininha trabalhando sem parar. Make @markitocosta cabelo @gillalmeida e stylist @dudufarias . Tudo gente que eu amo demais❤️❤️❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5036
+        }, 
+        "id": "1649565680612450073", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bbkbz8qlJ8Z", 
+        "tags": [], 
+        "taken_at_timestamp": 1510863574, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23596383_849656825201929_5853500809051897856_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23596383_849656825201929_5853500809051897856_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23596383_849656825201929_5853500809051897856_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23596383_849656825201929_5853500809051897856_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23596383_849656825201929_5853500809051897856_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23596383_849656825201929_5853500809051897856_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23596383_849656825201929_5853500809051897856_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23594825_380487532390815_5095690689082032128_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 145407
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Pensa numa pessoa animada pro Natal! A melhor época do ano já chegou nas @lojasleader e eu tô adorando! Tem presente, comprinhas, tudo que eu adoro! E vocês, já estão aproveitando também? #JáéNatalnaLeader #publi"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1152
+        }, 
+        "id": "1649382402974598225", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbjyI6EFMRR", 
+        "tags": [
+            "JáéNatalnaLeader", 
+            "publi"
+        ], 
+        "taken_at_timestamp": 1510841726, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23594825_380487532390815_5095690689082032128_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23594825_380487532390815_5095690689082032128_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23594825_380487532390815_5095690689082032128_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23594825_380487532390815_5095690689082032128_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23594825_380487532390815_5095690689082032128_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23594825_380487532390815_5095690689082032128_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23594825_380487532390815_5095690689082032128_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1350, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23507661_2054279344792053_2039779135370297344_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 223422
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Já estamos ao vivo no @toptvzmultishow @multishow . Delicia estar na companhia de @thalitameneghim e @fernandesgabie do canal \"depois da onze\" . São lindas!!\nAssistam e coloquem a #iveteedd11notvz"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1524
+        }, 
+        "id": "1648879332498891784", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "Bbh_wRLFGQI", 
+        "tags": [
+            "iveteedd11notvz"
+        ], 
+        "taken_at_timestamp": 1510781755, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c0.135.1080.1080/23507661_2054279344792053_2039779135370297344_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c0.135.1080.1080/23507661_2054279344792053_2039779135370297344_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c0.135.1080.1080/23507661_2054279344792053_2039779135370297344_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c0.135.1080.1080/23507661_2054279344792053_2039779135370297344_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/23507661_2054279344792053_2039779135370297344_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/23507661_2054279344792053_2039779135370297344_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23507661_2054279344792053_2039779135370297344_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23498484_522801871419282_9216861154196848640_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 740486
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Muito linda e sempre carinhosa com todo mundo ! @fatimabernardes , não poderia deixar de ir te ver e bater papo gostoso 🍀Amei o programa! \n#ivetenoencontro #chegueiprateamar\nMake lindo @silviogiorgio ❤️\nCabelo incrível @gillalmeida ❤️\nStyle que eu amo @leandroportos ❤️ @vitferreira ❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5932
+        }, 
+        "id": "1648657497891188834", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbhNUJmFrBi", 
+        "tags": [
+            "ivetenoencontro", 
+            "chegueiprateamar"
+        ], 
+        "taken_at_timestamp": 1510755310, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23498484_522801871419282_9216861154196848640_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23498484_522801871419282_9216861154196848640_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23498484_522801871419282_9216861154196848640_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23498484_522801871419282_9216861154196848640_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23498484_522801871419282_9216861154196848640_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23498484_522801871419282_9216861154196848640_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23498484_522801871419282_9216861154196848640_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23498792_163879244212340_304592122785300480_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 183019
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Alegria total! Esse é o convite para o \"Melhores do ano\" do Faustão! Indicada como melhor cantora🌟 \nVamos votar gente!!!!\nLink no Stories 😉"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1923
+        }, 
+        "id": "1648186295720570623", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbfiLQYF27_", 
+        "tags": [], 
+        "taken_at_timestamp": 1510699139, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23498792_163879244212340_304592122785300480_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23498792_163879244212340_304592122785300480_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23498792_163879244212340_304592122785300480_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23498792_163879244212340_304592122785300480_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23498792_163879244212340_304592122785300480_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23498792_163879244212340_304592122785300480_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23498792_163879244212340_304592122785300480_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23596033_145536866072753_9137879209589342208_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 334975
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Eu que vivia sem .... agora que encontrei estou com! \nIveteComGalo"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 9226
+        }, 
+        "id": "1647900319978688635", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbehJwtlRB7", 
+        "tags": [], 
+        "taken_at_timestamp": 1510665048, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23596033_145536866072753_9137879209589342208_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23596033_145536866072753_9137879209589342208_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23596033_145536866072753_9137879209589342208_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23596033_145536866072753_9137879209589342208_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23596033_145536866072753_9137879209589342208_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23596033_145536866072753_9137879209589342208_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23596033_145536866072753_9137879209589342208_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 360, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23498707_204185683458131_2806382470734282752_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 61255
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tá querendo um hit hino sucesso do carnaval baiano? Tome ! @psirico"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1096
+        }, 
+        "id": "1647573059895803814", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbdWvgAl7-m", 
+        "tags": [], 
+        "taken_at_timestamp": 1510626069, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c140.0.360.360/23498707_204185683458131_2806382470734282752_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c140.0.360.360/23498707_204185683458131_2806382470734282752_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c140.0.360.360/23498707_204185683458131_2806382470734282752_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23498707_204185683458131_2806382470734282752_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23498707_204185683458131_2806382470734282752_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23498707_204185683458131_2806382470734282752_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/1a3a8021a0b1bddfeb12f0dcd250acc4/5A22F051/t50.2886-16/23631037_2062265457393038_6976589981921837056_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23421620_127048597972475_8917270147165585408_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 131135
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "A natureza e a criança. Aqui não se lembra de tecnologia, nem do último brinquedo lançado . Aqui a vontade é de tocar na terra, tomar banho de rio, comer fruta do pé, dormir de cansaço e deixar mesmo em sono pesado um sorriso no canto da boca de quem sonha com o dia de amanhã. Aqui as mensagens são simples e claras. Aqui não há preconceito ou tempo para pensar bobagens , nem aprender a fazer julgamentos precipitados. Aqui tem Deus, mostrando o seu talento maravilhoso, \"A natureza\"."
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1701
+        }, 
+        "id": "1645961432960315575", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbXoTPdl7C3", 
+        "tags": [], 
+        "taken_at_timestamp": 1510434094, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/23421620_127048597972475_8917270147165585408_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/23421620_127048597972475_8917270147165585408_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/23421620_127048597972475_8917270147165585408_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/23421620_127048597972475_8917270147165585408_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/23421620_127048597972475_8917270147165585408_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/23421620_127048597972475_8917270147165585408_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/b2e39025f9fd18e4e303a0aa3732540f/5A2299C0/t50.2886-16/23497339_409557972794330_6245344672764395520_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 750, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23416387_151678212118539_7675197598373773312_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 38626
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "@nylceadultra , ⁩ antes de lhe dar os parabéns eu prefiro agradecer a vc. Agradecer a vc por me ensinar que a força de uma mulher não tem limites. Que a fé sim é senhora de tudo! Eu tenho tanta admiração por vc ! Lhe amo desde o dia que lhe conheci. Amo estar com vc e tudo que vc traz junto. O seu bolo de abacaxi é uma das coisas que é mais amo ! \nDeus lhe cubra de bençãos pois vc merece muitas!\nTe amo Crecia ❤️❤️❤️❤️❤️feliz aniversário"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 317
+        }, 
+        "id": "1645848024936035378", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbXOg8AlzQy", 
+        "tags": [], 
+        "taken_at_timestamp": 1510420395, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23416387_151678212118539_7675197598373773312_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23416387_151678212118539_7675197598373773312_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23416387_151678212118539_7675197598373773312_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23416387_151678212118539_7675197598373773312_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23416387_151678212118539_7675197598373773312_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23416387_151678212118539_7675197598373773312_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23416387_151678212118539_7675197598373773312_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23421731_1977231942548217_3747064176384671744_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 100418
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Bom dia ! Um dia bem massa pra gente! 🙏🏻🙌🏻☀️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1214
+        }, 
+        "id": "1645736548455730594", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbW1KvclM2i", 
+        "tags": [], 
+        "taken_at_timestamp": 1510407106, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23421731_1977231942548217_3747064176384671744_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23421731_1977231942548217_3747064176384671744_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23421731_1977231942548217_3747064176384671744_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23421731_1977231942548217_3747064176384671744_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421731_1977231942548217_3747064176384671744_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421731_1977231942548217_3747064176384671744_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23421731_1977231942548217_3747064176384671744_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 936, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23347903_504187789965770_211911839548702720_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 472053
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "A saúde é a melhor aliada de quem quer realizar muitas coisas maravilhosas! Um brinde à vida! Um brinde à saúde! Boa noite"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 5464
+        }, 
+        "id": "1645353750377226546", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbVeIS9F2Ey", 
+        "tags": [], 
+        "taken_at_timestamp": 1510361528, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c0.89.720.720/23347903_504187789965770_211911839548702720_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c0.89.720.720/23347903_504187789965770_211911839548702720_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c0.89.720.720/23347903_504187789965770_211911839548702720_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c0.89.720.720/23347903_504187789965770_211911839548702720_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.89.720.720/23347903_504187789965770_211911839548702720_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.89.720.720/23347903_504187789965770_211911839548702720_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/8fdc800881f79eaa22af4a03010160ce/5A22AB54/t50.2886-16/23546482_792461420938652_6605387460450975744_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1350, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23347500_145229336117341_6624540102603309056_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 319081
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tivemos um encontro muito bacana no \"super bonita\". Falamos de carreira , de vida . Ela sempre muito feliz e cheia de alegria. Um exemplo de força  e bom humor. Deus te guarde em bom lugar. 🙏🏻 Marcia Cabrita❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1386
+        }, 
+        "id": "1645235730874951553", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbVDS4ulOeB", 
+        "tags": [], 
+        "taken_at_timestamp": 1510347404, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c0.112.899.899/23347500_145229336117341_6624540102603309056_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c0.112.899.899/23347500_145229336117341_6624540102603309056_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c0.112.899.899/23347500_145229336117341_6624540102603309056_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c0.112.899.899/23347500_145229336117341_6624540102603309056_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.112.899.899/23347500_145229336117341_6624540102603309056_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.112.899.899/23347500_145229336117341_6624540102603309056_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23347500_145229336117341_6624540102603309056_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1324, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23416578_460713144326341_7086696966112935936_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 27162
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Que Felicidade!!! Obrigada aos meu zamuris que estão curtindo muito nossa \"cheguei pra te amar\" . O link do clipe tá na Bio! Assistam . \nValeu @spotifybrasil 🍀\n@mc_livinho 💥\n@rabcruz olha aí parceiro como nossa música tá show!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 319
+        }, 
+        "id": "1645068778986685255", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbUdVaqlkNH", 
+        "tags": [], 
+        "taken_at_timestamp": 1510327502, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c0.122.1080.1080/23416578_460713144326341_7086696966112935936_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c0.122.1080.1080/23416578_460713144326341_7086696966112935936_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c0.122.1080.1080/23416578_460713144326341_7086696966112935936_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c0.122.1080.1080/23416578_460713144326341_7086696966112935936_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.122.1080.1080/23416578_460713144326341_7086696966112935936_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.122.1080.1080/23416578_460713144326341_7086696966112935936_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23416578_460713144326341_7086696966112935936_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23421165_2031125227116481_6450431293883678720_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 462169
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Eu e meus amores @lulusantosoficial @micheltelo @carlinhosbrownoficial esperamos vcs hj a noite para mais um #thevoicebrasil . Tá quente todo!"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 3039
+        }, 
+        "id": "1644497472310458143", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbSbbz3F7cf", 
+        "tags": [
+            "thevoicebrasil"
+        ], 
+        "taken_at_timestamp": 1510259397, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23421165_2031125227116481_6450431293883678720_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23421165_2031125227116481_6450431293883678720_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23421165_2031125227116481_6450431293883678720_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23421165_2031125227116481_6450431293883678720_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421165_2031125227116481_6450431293883678720_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421165_2031125227116481_6450431293883678720_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23421165_2031125227116481_6450431293883678720_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 360, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23279992_923848247773243_547946640518938624_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 66862
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Que clipe bafônico da minha @pretagil com a glamourosa @galcosta . Que incrível a música  e essa parceria! Sucesso certo! #vasebenzer #pretaegal"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 779
+        }, 
+        "id": "1644434482982589820", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbSNHMelJV8", 
+        "tags": [
+            "pretaegal", 
+            "vasebenzer"
+        ], 
+        "taken_at_timestamp": 1510251974, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c140.0.360.360/23279992_923848247773243_547946640518938624_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c140.0.360.360/23279992_923848247773243_547946640518938624_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c140.0.360.360/23279992_923848247773243_547946640518938624_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279992_923848247773243_547946640518938624_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279992_923848247773243_547946640518938624_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279992_923848247773243_547946640518938624_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/2fda4516aa2b9a54af5bdaedcea91452/5A22CC4A/t50.2886-16/23418098_884093828421427_1975203988542324736_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 1080, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23347320_1376183585843203_3221492314023133184_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 21817
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tá chegando!! Entre os dias 17 e 19 de novembro o Bazar Ivete Sangalo acontece em uma loja no Shopping da Bahia. Importante: apesar da loja física, todo o processo de compra será online, através do site www.bazarivetesangalo.com, que ficará disponível a partir do dia 17! 💻📱🖥 (EquipeIS) #bazarivetesangalo #vistasedeamor"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 353
+        }, 
+        "id": "1643790769793073805", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbP6v72lQKN", 
+        "tags": [
+            "bazarivetesangalo", 
+            "vistasedeamor"
+        ], 
+        "taken_at_timestamp": 1510175151, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/23347320_1376183585843203_3221492314023133184_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/23347320_1376183585843203_3221492314023133184_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/23347320_1376183585843203_3221492314023133184_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/23347320_1376183585843203_3221492314023133184_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23347320_1376183585843203_3221492314023133184_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23347320_1376183585843203_3221492314023133184_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23347320_1376183585843203_3221492314023133184_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 360, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23279974_1955681221355668_8477342505371697152_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 53324
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Amei!❤️❤️❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 681
+        }, 
+        "id": "1643709095847748588", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbPoLbEFWPs", 
+        "tags": [], 
+        "taken_at_timestamp": 1510165428, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c140.0.360.360/23279974_1955681221355668_8477342505371697152_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c140.0.360.360/23279974_1955681221355668_8477342505371697152_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c140.0.360.360/23279974_1955681221355668_8477342505371697152_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279974_1955681221355668_8477342505371697152_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279974_1955681221355668_8477342505371697152_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279974_1955681221355668_8477342505371697152_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/b741b1e3bc280a899818616c0e71d8bf/5A22C5F2/t50.2886-16/23423085_376198742793792_3714718318116995072_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 344, 
+            "width": 612
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23279617_1979278552349307_5913252965304500224_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 70258
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#Repost @danielcady (@get_repost)\n・・・\nComeçou hoje a campanha de uso consciente de energia elétrica. Família inteligente, consumo consciente. Confira as dicas de como ser um mestre na economia de energia em: www.poupestar.com.br \n#poupestar #abradee #eletrobras #sustentabilidade #danielcady #ivetesangalo \nUm casalzão desse bicho❤️❤️🙏🏻"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 797
+        }, 
+        "id": "1643491093256843412", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbO2nEVF7CU", 
+        "tags": [
+            "poupestar", 
+            "danielcady", 
+            "eletrobras", 
+            "sustentabilidade", 
+            "ivetesangalo", 
+            "abradee", 
+            "Repost"
+        ], 
+        "taken_at_timestamp": 1510139444, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c134.0.344.344/23279617_1979278552349307_5913252965304500224_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c134.0.344.344/23279617_1979278552349307_5913252965304500224_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c134.0.344.344/23279617_1979278552349307_5913252965304500224_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c134.0.344.344/23279617_1979278552349307_5913252965304500224_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c134.0.344.344/23279617_1979278552349307_5913252965304500224_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c134.0.344.344/23279617_1979278552349307_5913252965304500224_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/2bc7231f87ea4d579c733e8ef47757af/5A22E811/t50.2886-16/23422212_187855085098467_4100795118787756032_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 612, 
+            "width": 612
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23280178_159972487936468_4624513075695845376_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 21047
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Leiam O recado de @camilanunes Vamos de música nessa quinta-feira?? Estou muito feliz em anunciar que estarei mais uma vez no Fera Palace Hotel @ferapalacehotel , apresentando meu repertório autoral e fazendo algumas releituras de músicas que amo como A Menina Dança, September, Bete Balanço, As Quatro Estações e outras cositas mas! Hahahaha! Pra quem não conhece, o projeto Fera Music Live acontece todas as quintas no hotel localizado na Rua Chile, Centro Histórico de Salvador e tem entrada gratuita. Faça sua reserva pelo 71 3036 9200. Então não se esqueça! Quinta, dia 09 de Novembro, a partir das 20h. Entrada Free! RESERVAS: 71 3036 9200"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 143
+        }, 
+        "id": "1642926389505345471", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbM2Ni-lMe_", 
+        "tags": [], 
+        "taken_at_timestamp": 1510072155, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/23280178_159972487936468_4624513075695845376_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/23280178_159972487936468_4624513075695845376_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/23280178_159972487936468_4624513075695845376_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/23280178_159972487936468_4624513075695845376_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23280178_159972487936468_4624513075695845376_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23280178_159972487936468_4624513075695845376_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/099416b868befa244c87f6c836463e77/5A22EF93/t50.2886-16/23418232_244574562741023_5090584651571920896_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 360, 
+            "width": 640
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23279972_889075334603789_7885271887704489984_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 51919
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Coisa boa é poder dar uma notícia como essa ❤️❤️❤️ Minha gente, tá chegando meu bazar beneficente! Roupas bem lindas pra vocês. Tem tanta coisa massa lá! Feliz demais com essa novidade! #bazarivetesangalo #vistasedeamor"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 722
+        }, 
+        "id": "1642860487619468565", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbMnOjEFV0V", 
+        "tags": [
+            "bazarivetesangalo", 
+            "vistasedeamor"
+        ], 
+        "taken_at_timestamp": 1510064322, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c140.0.360.360/23279972_889075334603789_7885271887704489984_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c140.0.360.360/23279972_889075334603789_7885271887704489984_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c140.0.360.360/23279972_889075334603789_7885271887704489984_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279972_889075334603789_7885271887704489984_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279972_889075334603789_7885271887704489984_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/c140.0.360.360/23279972_889075334603789_7885271887704489984_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/8d84b5925df09efa78f7b731f30907e9/5A22F90F/t50.2886-16/23363156_365020860621005_9048002964471414784_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphImage", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 719, 
+            "width": 1080
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23161756_286343068541602_595638099107643392_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 226956
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Já está aberta a votação para a premiação “Melhores do Ano”, organizado pelo Domingão do Faustão, que traz Ivete Sangalo como finalista na categoria “Melhor Cantora”. É possível votar quantas vezes quiser até 10 de dezembro, dia da entrega dos prêmios. Os votos são apenas pelo Gshow, e é preciso fazer um cadastro gratuito. Link no stories 😉\nIvete é recordista na premiação, com 11 troféus: três na categoria “Música do Ano” e oito na de “Melhor Cantora”. (EquipeIS) #melhorcantora #domingaodofaustao #melhoresdoano"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 1891
+        }, 
+        "id": "1642164362189084396", 
+        "is_video": false, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbKI8lvFhbs", 
+        "tags": [
+            "melhorcantora", 
+            "domingaodofaustao", 
+            "melhoresdoano"
+        ], 
+        "taken_at_timestamp": 1509981268, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e35/c180.0.719.719/23161756_286343068541602_595638099107643392_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e35/c180.0.719.719/23161756_286343068541602_595638099107643392_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e35/c180.0.719.719/23161756_286343068541602_595638099107643392_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e35/c180.0.719.719/23161756_286343068541602_595638099107643392_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.719.719/23161756_286343068541602_595638099107643392_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.719.719/23161756_286343068541602_595638099107643392_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e35/23161756_286343068541602_595638099107643392_n.jpg"
+        ]
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 937, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23164695_358852357872941_322896865378959360_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 497583
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#chegueiprateamar em FLORIPA  foi massa demais! Que noite mais deliciosa ❤️💥🔥🙌🏻. #folianopolis , grande festa do Axé💫"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 7064
+        }, 
+        "id": "1641097202243095500", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbGWTXllkvM", 
+        "tags": [
+            "folianopolis", 
+            "chegueiprateamar"
+        ], 
+        "taken_at_timestamp": 1509854093, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c0.90.720.720/23164695_358852357872941_322896865378959360_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c0.90.720.720/23164695_358852357872941_322896865378959360_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c0.90.720.720/23164695_358852357872941_322896865378959360_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c0.90.720.720/23164695_358852357872941_322896865378959360_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.90.720.720/23164695_358852357872941_322896865378959360_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.90.720.720/23164695_358852357872941_322896865378959360_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/94265e21017bc4fccbb71c167cac46db/5A22D582/t50.2886-16/23360485_1952892471589893_8828481344817332224_n.mp4"
+        ], 
+        "video_view_count": 0
+    }, 
+    {
+        "__typename": "GraphVideo", 
+        "comments_disabled": false, 
+        "dimensions": {
+            "height": 936, 
+            "width": 750
+        }, 
+        "display_url": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/e15/23101567_1936366730020107_1607802470178750464_n.jpg", 
+        "edge_media_preview_like": {
+            "count": 472254
+        }, 
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Santa Maria -RS se entregou completamente com \"Cheguei pra te amar\". Que noite mais linda! Quero voltar muitas vezes e cantar pra vcs❤️❤️"
+                    }
+                }
+            ]
+        }, 
+        "edge_media_to_comment": {
+            "count": 7359
+        }, 
+        "id": "1640394021775270796", 
+        "is_video": true, 
+        "location": null, 
+        "owner": {
+            "id": "13577008"
+        }, 
+        "shortcode": "BbD2avvluOM", 
+        "tags": [], 
+        "taken_at_timestamp": 1509770473, 
+        "thumbnail_resources": [
+            {
+                "config_height": 150, 
+                "config_width": 150, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s150x150/e15/c0.89.720.720/23101567_1936366730020107_1607802470178750464_n.jpg"
+            }, 
+            {
+                "config_height": 240, 
+                "config_width": 240, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s240x240/e15/c0.89.720.720/23101567_1936366730020107_1607802470178750464_n.jpg"
+            }, 
+            {
+                "config_height": 320, 
+                "config_width": 320, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s320x320/e15/c0.89.720.720/23101567_1936366730020107_1607802470178750464_n.jpg"
+            }, 
+            {
+                "config_height": 480, 
+                "config_width": 480, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s480x480/e15/c0.89.720.720/23101567_1936366730020107_1607802470178750464_n.jpg"
+            }, 
+            {
+                "config_height": 640, 
+                "config_width": 640, 
+                "src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.89.720.720/23101567_1936366730020107_1607802470178750464_n.jpg"
+            }
+        ], 
+        "thumbnail_src": "https://scontent-lax3-2.cdninstagram.com/t51.2885-15/s640x640/e15/c0.89.720.720/23101567_1936366730020107_1607802470178750464_n.jpg", 
+        "urls": [
+            "https://scontent-lax3-2.cdninstagram.com/vp/0cf4c8ad3cf231f699911fa9b320dcf9/5A22A029/t50.2886-16/23227899_341976769609285_4482075325752147968_n.mp4"
+        ], 
+        "video_view_count": 0
+    }
+]
