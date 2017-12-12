@@ -5,11 +5,29 @@ import csv
 import datetime
 from skimage import color
 from PorterStemmer import PorterStemmer
+import json
 
 class FeatureExtractor():
+	
+	def __init__(self):
+		self.allFeatures = []
+
+	def cacheData(self,cachingTest=False):
+		cacheName = 'cacheVectors.txt' 
+		if cachingTest:
+			cacheName = 'cacheTestVectors.txt'
+		with open(cacheName, 'w') as f:
+		    for _list in self.allFeatures:
+		        for _string in _list:
+		            f.write(str(_string)+ " ")
+		        f.write('\n')
+		self.allFeatures = []
 
 	def extract(self,jsonBlob):
 		imagePath = jsonBlob['imagePath']
+		# print type(jsonBlob)
+		
+		# print(jsonBlob)
 		self.img = cv2.imread(imagePath)
 		self.gray = np.array(color.rgb2gray(self.img), dtype='uint8')
 		self.caption = jsonBlob['caption']
@@ -25,7 +43,11 @@ class FeatureExtractor():
 		self.sentiment = {}
 		for word in rawSentiment:
 			self.sentiment[self.stemmer.stem(word)] = rawSentiment[word]
-		return (np.array(self.getFeatures()),jsonBlob['likes'])
+		self.getFeatures()
+
+		self.allFeatures.append(self.features)
+		# print(self.features)
+		return (np.array(self.features),jsonBlob['likes'])
 
     # Will run sentiment detection on the entire input passed in, so if we want
     # to ignore movie names, make sure to pass in a string with these stripped
@@ -81,21 +103,16 @@ class FeatureExtractor():
 		criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 200, .15)
 		flags = cv2.KMEANS_RANDOM_CENTERS
 		_, labels, centroids = cv2.kmeans(pixels, n_colors, None, criteria, 2, flags)
-
-		# print(centroids)
-		# print(centroids)
 		centroids = np.array([centroids]).astype(int)
 		hsvs = color.rgb2hsv(centroids/255.0)
 		colors = [0]*8
 		for hsv in hsvs[0]:
 			degree = hsv[0]*360
-			# print(degree)
-			# print(abs(degree//45))
 			colors[int(degree//45)]+=1
 		return colors
 
 	def getFeatures(self):
-		# self.features += self.gradients()
+		self.features += self.gradients()
 		self.features += [self.numMentions()]
 		self.features += [self.numHashtags()]
 		self.features += [self.commentLength()]
@@ -105,7 +122,6 @@ class FeatureExtractor():
 		self.features += self.dominantColors()
 		self.features += self.getSentiment(self.caption)
 
-		# print(len(self.features))
 		return self.features
 
 	def brightness(self):

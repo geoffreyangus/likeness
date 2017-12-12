@@ -140,11 +140,11 @@ def printBaselineResults(predictor):
 	for example in test:
 		# sorted by most recent
 		result = predictor.getResult(example)
-		print example['user']['username']
-		print 'Predicted:', result[0]
-		print 'Actual:', result[1]
-		print 'Error:', result[2]
-		print '---------------'\
+		# print example['user']['username']
+		# print 'Predicted:', result[0]
+		# print 'Actual:', result[1]
+		# print 'Error:', result[2]
+		# print '---------------'\
 		# sum errors
 		cumulativeError += result[2]
 		if result[2] > maxError[0]:

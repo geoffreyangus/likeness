@@ -5,11 +5,14 @@ from sklearn import linear_model
 from featureExtractor import FeatureExtractor
 from sklearn.svm import SVR
 from sklearn.neural_network import MLPRegressor
-
+import os
 import warnings
+import json
 
 warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd") # lol
-
+axis = np.s_[1:4]
+# axis = 2
+# axis  =1:4
 class DummyFeatureExtractor():
 	def extract(self, x):
 		return (np.random.randint(0, 20, 15), x['likes'])
@@ -27,30 +30,52 @@ class LikenessV1():
 	classifier = None
 	# Trains the model. Takes all data and extracts 15-vectors from the posts.
 	# Runs Minibatch Gradient Descent to optimize and return a weight vector.
-	def train(self, data, featureExtractor):
+	def train(self, data, featureExtractor,cacheData):
 		X = []
 		Y = []
 		print("training on " + str(len(data)) + " examples")
 		count = 0
-		for example in data:
-			# print(example)
-			output = featureExtractor(example)
-			# print(output)
-			X.append(output[0])
-			Y.append(output[1])
+		cacheExists = os.path.isfile("cacheVectors.txt")
 
-			if count%50 == 0:
+		if cacheExists:
+			with open("cacheVectors.txt", "r") as file:
+			    for line in file:
+			    	X.append([float(word) for word in line.split()])
+			# with open("yCache.txt", "r") as file:
+			#     for line in file:
+			#     	Y.append(float(line))
+			
+		for i in range(len(data)):
+			example = data[i]
+			if not cacheExists:
+				output = featureExtractor(example)
+
+				X.append(output[0])
+			Y.append(example["likes"])
+			if count%100 == 0:
 				print(str(count*1.0/len(data)) + "\% done!")
 			count+=1
 
 		X = np.asarray(X)
 		Y = np.asarray(Y)
+		
+		# print(X)
 
-		self.cacheData(X, Y)
+		if not cacheExists:
+			cacheData()
+			with open("yCache.txt", 'w') as f:
+			    for y in Y:
+			        f.write(str(_string))
+			        f.write('\n')
 
+		
+		print("Done with Feature Extraction with X and Y vectors of size: ")
 		print(X.shape)
 		print(Y.shape)
 
+		X= np.array(X)
+		X = np.delete(X,axis,axis=1)
+		
 		self.classifier = linear_model.LinearRegression(fit_intercept=True, copy_X=False)
 		self.classifier.fit(X, Y)
 		print "parameters", self.classifier.coef_
@@ -58,21 +83,18 @@ class LikenessV1():
 	def predict(self, x):
 		return self.classifier.predict(x)
 
-	def cacheData(self):
-		print 'stub implementation'
-
 class LikenessV2():
 	theta = np.random.random(15)
 	classifier = None
 
 	# Trains the model. Takes all data and extracts 15-vectors from the posts.
 	# Runs Minibatch Gradient Descent to optimize and return a weight vector.
-	def train(self, data, featureExtractor):
+	def train(self, data, featureExtractor,cacheData):
 		X = []
 		Y = []
 		print("training on " + str(len(data)) + " examples")
 		count = 0
-		for example in data:
+		for example in data[0:50]:
 			# print(example)
 			output = featureExtractor(example)
 			# print(output)
@@ -86,7 +108,7 @@ class LikenessV2():
 		X = np.asarray(X)
 		Y = np.asarray(Y)
 
-		self.cacheData(X, Y)
+		cacheData()
 
 		print(X.shape)
 		print(Y.shape)
@@ -98,36 +120,50 @@ class LikenessV2():
 
 	def predict(self, x):
 		return self.classifier.predict(x)
-
-	def cacheData(self):
-		print 'stub implementation'
+		
 
 class LikenessV3():
 	classifier = None
 
 	# Trains the model. Takes all data and extracts 15-vectors from the posts.
 	# Runs Minibatch Gradient Descent to optimize and return a weight vector.
-	def train(self, data, featureExtractor):
+	def train(self, data, featureExtractor,cacheData):
 		X = []
 		Y = []
 		print("training on " + str(len(data)) + " examples")
 		count = 0
-		for example in data:
-			# print(example)
-			output = featureExtractor(example)
-			# print(output)
-			X.append(output[0])
-			Y.append(output[1])
+		cacheExists = os.path.isfile("cacheVectors.txt")
 
-			if count%50 == 0:
+		if cacheExists:
+			with open("cacheVectors.txt", "r") as file:
+			    for line in file:
+			    	X.append([float(word) for word in line.split()])
+			# with open("yCache.txt", "r") as file:
+			#     for line in file:
+			#     	Y.append(float(line))
+			
+		for i in range(len(data)):
+			example = data[i]
+			if not cacheExists:
+				output = featureExtractor(example)
+
+				X.append(output[0])
+			Y.append(example["likes"])
+			if count%100 == 0:
 				print(str(count*1.0/len(data)) + "\% done!")
 			count+=1
 
 		X = np.asarray(X)
 		Y = np.asarray(Y)
+		if not cacheExists:
+			cacheData()
+			with open("yCache.txt", 'w') as f:
+			    for y in Y:
+			        f.write(str(_string))
+			        f.write('\n')
 
-		self.cacheData(X, Y)
-
+		
+		print("Done with Feature Extraction with X and Y vectors of size: ")
 		print(X.shape)
 		print(Y.shape)
 
@@ -136,13 +172,13 @@ class LikenessV3():
 			activation='relu', 
 			solver='adam', 
 			alpha=0.0001, 
-			batch_size='auto', 
+			batch_size=275, 
 			learning_rate='constant', 
 			learning_rate_init=0.001, 
 			power_t=0.5, 
-			max_iter=200, 
+			max_iter=500, 
 			shuffle=True, 
-			random_state=None, 
+			random_state=1, 
 			tol=0.0001, 
 			verbose=False, 
 			warm_start=False, 
@@ -154,13 +190,18 @@ class LikenessV3():
 			beta_2=0.999, 
 			epsilon=1e-08
 		)
+		
+		X= np.array(X)
+		# X[1:, 1:,] = X[:, 0] * X[:, 1:,]   
+		for y in range(X.shape[0]):
+			for x in range(1,X.shape[1]):
+				X[y][x] = X[y][0]* X[y][x]/50
+
+		X = np.delete(X,axis,axis=1)
 		self.classifier.fit(X, Y)
 
 	def predict(self, x):
 		return self.classifier.predict(x)
-
-	def cacheData(self, X, Y):
-		print 'stub implementation'
 
 
 # Class: BaseLineAlgorithm
@@ -197,11 +238,6 @@ class BaseLineAlgorithm():
 		    minSize=(30, 30)
 		    #flags = cv2.CV_HAAR_SCALE_IMAGE
 		)
-
-		if len(faces) > 0:
-			print '(face detected)'
-		else:
-			print '(face not detected)'
 		return True if len(faces) > 0 else False
 
 	# Returns tuple containing predicted value, actual value, and percent error.
@@ -218,27 +254,65 @@ class BaseLineAlgorithm():
 # baseline = BaseLineAlgorithm()
 # util.printBaselineResults(baseline)
 
-data = util.getMetadata(readCache=False)
-train, test = util.getDataSplit(data, readCache=False)
-
-# extractor = DummyFeatureExtractor()
+data = util.getMetadata(readCache=True)
+train, test = util.getDataSplit(data, readCache=True)
 
 extractor = FeatureExtractor()
-model = LikenessV2()
-model.train(train, extractor.extract)
+model = LikenessV3()
+model.train(train, extractor.extract,extractor.cacheData)
 
 cumulativeError = 0.0
-print("testing on " + str(len(test)) + " examples")
-for example in test:
-	processedExample = extractor.extract(example)
-	x = processedExample[0]
-	y = processedExample[1]
-	yhat = model.predict(x.reshape(1, -1))[0]
-	print '---------------'
-	print 'USER:', example['user']['username']
-	print 'PREDICTED:', yhat
-	print 'ACTUAL:', y
-	print '---------------'
-	cumulativeError += abs(y - yhat) / yhat
+cumError = 0.0
+allErrors = {}
 
-print 'AVERAGE ERROR (LikenessV1):', cumulativeError / len(test)
+
+print("testing on " + str(len(test)) + " examples")
+
+cacheExists = os.path.isfile("cacheTestVectors.txt")
+cache = []
+yCache = []
+if cacheExists:
+	with open("cacheTestVectors.txt", "r") as file:
+	    array = []
+	    for line in file:
+	    	cache.append([float(word) for word in line.split()])
+	        array.append(line)
+	# with open("yTestCache.txt", "r") as file:
+	#     for line in file:
+	#     	Y.append(float(line))
+cache = np.array(cache)
+		
+cache = np.delete(cache,axis,axis=1)
+# print(cache.shape)
+for i in range(len(test)):
+	example = test[i]
+	x = None
+	if cacheExists:
+		x = np.array(cache[i])
+	else:
+		processedExample = extractor.extract(example)
+		x = processedExample[0]
+	y = example['likes']
+
+	yhat = model.predict(x.reshape(1, -1))[0]
+
+	# print '---------------'
+	# print 'USER:', example['user']['username']
+	# print 'PREDICTED:', yhat
+	# print 'ACTUAL:', y
+	# print '---------------'
+	error = abs(y - yhat) / yhat
+	cError = abs(y - yhat) / y
+	cumulativeError += error
+	cumError+= cError
+	allErrors[example["imagePath"].encode('ascii','ignore')] = error
+
+if not cacheExists:
+	extractor.cacheData(cachingTest=True)	
+
+print 'AVERAGE ERROR:', cumulativeError / len(test)
+print 'AVERAGE ERROR:', cumError / len(test)
+
+with open('allErrors.txt', 'w') as file:
+     file.write(json.dumps(allErrors))
+
